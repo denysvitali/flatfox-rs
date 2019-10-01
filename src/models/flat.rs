@@ -6,6 +6,7 @@ use crate::models::cover_image::CoverImage;
 use crate::models::image::Image;
 use crate::models::document::Document;
 use crate::models::organization::Organization;
+use crate::models::price_display_type::PriceDisplayType;
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct  Flat {
@@ -35,7 +36,7 @@ pub struct  Flat {
     pub organization: Option<Organization>,
     pub pk: i32,
     pub price_display: Option<i32>,
-    pub price_display_type: Option<String>,
+    pub price_display_type: PriceDisplayType,
     pub price_unit: Option<String>,
     pub public_address: Option<String>,
     pub public_subtitle: Option<String>,

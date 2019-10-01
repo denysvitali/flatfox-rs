@@ -9,3 +9,4 @@ pub mod logo;
 pub mod organization;
 pub mod pin;
 pub mod bounds;
+pub mod price_display_type;
