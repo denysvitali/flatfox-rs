@@ -1,0 +1,3387 @@
+{
+  "count": 12897,
+  "next": "https://flatfox.ch/api/v1/flat/?limit=20&offset=20",
+  "previous": null,
+  "results": [
+    {
+      "pk": 128616,
+      "slug": "sempacherstrasse-75-8032-zurich",
+      "url": "/en/flat/sempacherstrasse-75-8032-zurich/128616/",
+      "short_url": "/128616/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "RENT",
+      "object_category": "APARTMENT",
+      "object_type": "APARTMENT",
+      "ref_property": "",
+      "ref_house": "",
+      "ref_object": "",
+      "price_display": 2190,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "rent_net": null,
+      "rent_charges": 250,
+      "rent_gross": 2190,
+      "short_title": "2 ½ rooms apartment",
+      "public_title": "Sempacherstrasse 75, 8032 Zürich - CHF 2,190 incl. utilities per month",
+      "rent_title": "Rent a 2 ½ rooms apartment in Zürich",
+      "description_title": "Grosszügige 2 Zimmerwohnung an ruhiger Lage und doch Zentral",
+      "description": "Per 1.11.2019 sucht diese gemütliche 2 Zimmerwohnung mit grosszügigem Raumgefühl in einer Vier-Parteien Liegenschaft einen neuen Mieter.\nDie Wohnung wurde 2018 in eine bestehende Liegenschaft gebaut und seither erst einmal bewohnt.\nEckdaten:\n- sehr angenehme Nachbarschaft zwischen Klusplatz und Burgwies (Haltestelle Wetlistrasse)\n\n- 53.5m2 Wohnfläche\n- Grosszügige Raumaufteilung zwischen Schlaf- und Wohnzimmer\n-15m2 Gartensitzplatz (Garten wird von Gärtner bewirtschaftet, es entstehen keine Verpflichtungen für den Mieter)\n- Grosszügiges Entrée\n-7.5m2 Reduit/Keller direkt in der Wohnung, welcher auch bspw. als Büro genutzt werden könnte\n- Äusserst hochwertige Küche mit Elektrolux Klaskeramikherd und grossem Kühlschrank\n- Schöne neue Parkett- und Kachelböden\n\n- Spotbeleuchtung in Entrée und Küche\n- Grosszügiges Badezimmer mit Badewanne\n\n- Eigener Waschmaschinenanschluss in der Wohnung (Keller)\n\nIch freue mich darauf, mit Ihnen einen Besichtigungstermin zu vereinbaren!",
+      "livingspace": 54,
+      "number_of_rooms": "2.5",
+      "floor": 0,
+      "attributes": [
+        {
+          "name": "parquetflooring"
+        },
+        {
+          "name": "balconygarden"
+        }
+      ],
+      "is_furnished": false,
+      "is_temporary": false,
+      "is_selling_furniture": false,
+      "show_exact_address": true,
+      "zipcode": 8032,
+      "city": "Zürich",
+      "public_address": "Sempacherstrasse 75, 8032 Zürich",
+      "latitude": 47.3599416,
+      "longitude": 8.5701967,
+      "year_built": 2018,
+      "moving_date_type": "dat",
+      "moving_date": "2019-11-01",
+      "video_url": "",
+      "tour_url": "",
+      "website_url": "",
+      "cover_image": {
+        "pk": 1704813,
+        "caption": "",
+        "url": "/media/ff/2019/10/d8k8uprixuz2lif0qvnaluzrjemh48d3s6daqtkyu2tkwp79ry.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/d8k8uprixuz2lif0qvnaluzrjemh48d3s6daqtkyu2tkwp79ry.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/d8k8uprixuz2lif0qvnaluzrjemh48d3s6daqtkyu2tkwp79ry.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/d8k8uprixuz2lif0qvnaluzrjemh48d3s6daqtkyu2tkwp79ry.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 1400,
+        "height": 1050
+      },
+      "images": [
+        {
+          "pk": 1704813,
+          "caption": "",
+          "url": "/media/ff/2019/10/d8k8uprixuz2lif0qvnaluzrjemh48d3s6daqtkyu2tkwp79ry.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/d8k8uprixuz2lif0qvnaluzrjemh48d3s6daqtkyu2tkwp79ry.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/d8k8uprixuz2lif0qvnaluzrjemh48d3s6daqtkyu2tkwp79ry.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/d8k8uprixuz2lif0qvnaluzrjemh48d3s6daqtkyu2tkwp79ry.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704812,
+          "caption": "",
+          "url": "/media/ff/2019/10/nao04lirdwv6gu51btt4nt0n190ssv513iap4bfk1gfm6vpczy.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/nao04lirdwv6gu51btt4nt0n190ssv513iap4bfk1gfm6vpczy.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/nao04lirdwv6gu51btt4nt0n190ssv513iap4bfk1gfm6vpczy.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/nao04lirdwv6gu51btt4nt0n190ssv513iap4bfk1gfm6vpczy.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704808,
+          "caption": "",
+          "url": "/media/ff/2019/10/b3enwuhd2uidhcphm3nze6awrxn1ura2yu0aa7zo5g704m3yxk.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/b3enwuhd2uidhcphm3nze6awrxn1ura2yu0aa7zo5g704m3yxk.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/b3enwuhd2uidhcphm3nze6awrxn1ura2yu0aa7zo5g704m3yxk.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/b3enwuhd2uidhcphm3nze6awrxn1ura2yu0aa7zo5g704m3yxk.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 3,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704806,
+          "caption": "",
+          "url": "/media/ff/2019/10/1xu1hiom9mpbblhlxjlkm4qz8i2608av8uagmyi949m0vmfqx7.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/1xu1hiom9mpbblhlxjlkm4qz8i2608av8uagmyi949m0vmfqx7.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/1xu1hiom9mpbblhlxjlkm4qz8i2608av8uagmyi949m0vmfqx7.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/1xu1hiom9mpbblhlxjlkm4qz8i2608av8uagmyi949m0vmfqx7.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 4,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704807,
+          "caption": "",
+          "url": "/media/ff/2019/10/2jv1puj7fsiiuhzdb2r83uzxlq6os58i1gdln1cljecl8xusjy.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/2jv1puj7fsiiuhzdb2r83uzxlq6os58i1gdln1cljecl8xusjy.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/2jv1puj7fsiiuhzdb2r83uzxlq6os58i1gdln1cljecl8xusjy.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/2jv1puj7fsiiuhzdb2r83uzxlq6os58i1gdln1cljecl8xusjy.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 5,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704800,
+          "caption": "",
+          "url": "/media/ff/2019/10/412tth5v8cpy3x50ah1f09vfnubujbsyk436kz6er01hfl9w7m.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/412tth5v8cpy3x50ah1f09vfnubujbsyk436kz6er01hfl9w7m.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/412tth5v8cpy3x50ah1f09vfnubujbsyk436kz6er01hfl9w7m.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/412tth5v8cpy3x50ah1f09vfnubujbsyk436kz6er01hfl9w7m.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 6,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704803,
+          "caption": "",
+          "url": "/media/ff/2019/10/6464wx8zz6gas2ya0jcjgohlj3e3g2a2o8anzjw61w94hcvjs9.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/6464wx8zz6gas2ya0jcjgohlj3e3g2a2o8anzjw61w94hcvjs9.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/6464wx8zz6gas2ya0jcjgohlj3e3g2a2o8anzjw61w94hcvjs9.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/6464wx8zz6gas2ya0jcjgohlj3e3g2a2o8anzjw61w94hcvjs9.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 7,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704802,
+          "caption": "",
+          "url": "/media/ff/2019/10/pn2emw452omxx777vt274kk2mk2kzmlrqw5dadrq3q10phc4w5.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/pn2emw452omxx777vt274kk2mk2kzmlrqw5dadrq3q10phc4w5.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/pn2emw452omxx777vt274kk2mk2kzmlrqw5dadrq3q10phc4w5.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/pn2emw452omxx777vt274kk2mk2kzmlrqw5dadrq3q10phc4w5.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 8,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704809,
+          "caption": "",
+          "url": "/media/ff/2019/10/z2s36mh8ftzmsfdvxak8jnetm9psmryizdalzct14vf2u438e2.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/z2s36mh8ftzmsfdvxak8jnetm9psmryizdalzct14vf2u438e2.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/z2s36mh8ftzmsfdvxak8jnetm9psmryizdalzct14vf2u438e2.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/z2s36mh8ftzmsfdvxak8jnetm9psmryizdalzct14vf2u438e2.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 9,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704804,
+          "caption": "",
+          "url": "/media/ff/2019/10/sezac9pprg1eincbxtqjgm3xxn2cnxxc6qzrlbkdv0odziuott.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/sezac9pprg1eincbxtqjgm3xxn2cnxxc6qzrlbkdv0odziuott.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/sezac9pprg1eincbxtqjgm3xxn2cnxxc6qzrlbkdv0odziuott.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/sezac9pprg1eincbxtqjgm3xxn2cnxxc6qzrlbkdv0odziuott.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 10,
+          "width": 1400,
+          "height": 1050
+        }
+      ],
+      "documents": [],
+      "organization": null,
+      "id": 128616,
+      "cover_image_url": "/media/thumbs/ff/2019/10/d8k8uprixuz2lif0qvnaluzrjemh48d3s6daqtkyu2tkwp79ry.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "2 ½ rooms apartment, 8032 Zürich",
+      "rent_display": 2190,
+      "category": "APARTMENT",
+      "public_subtitle": "Sempacherstrasse 75, 8032 Zürich - CHF 2,190 incl. utilities per month"
+    },
+    {
+      "pk": 128615,
+      "slug": "dorfstrasse-20-8468-guntalingen",
+      "url": "/en/flat/dorfstrasse-20-8468-guntalingen/128615/",
+      "short_url": "/128615/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "RENT",
+      "object_category": "APARTMENT",
+      "object_type": "APARTMENT",
+      "ref_property": "",
+      "ref_house": "",
+      "ref_object": "",
+      "price_display": 2200,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "rent_net": null,
+      "rent_charges": 40,
+      "rent_gross": 2200,
+      "short_title": "5 ½ rooms apartment",
+      "public_title": "Dorfstrasse 20, 8468 Guntalingen - CHF 2,200 incl. utilities per month",
+      "rent_title": "Rent a 5 ½ rooms apartment in Guntalingen",
+      "description_title": "5.5 Zimmer Eckhaus über 3 Etagen mit Gartensitzplatz und Terrasse",
+      "description": "1. Etage mit grosszügiger Küche, Frühstücksbar, Essplatz, Wohnzimmer mit Kachelofen. Abstellraum mit Waschturm (WM/TB). Ausgang auf den gedeckten Gartensitzplatz.\n2. Etage mit 2 Zimmer, WC/Badezimmer, Ausgang vom Vorplatz auf die Terrasse\n3. Etage mit 2 Zimmer, WC/Dusche, Schlupfestrich im Dachgiebel\nBodenbeläge: Tannenriemen, Buchenparkett, Eichenparkett, Keramikplatten",
+      "livingspace": null,
+      "number_of_rooms": "5.5",
+      "floor": null,
+      "attributes": [
+        {
+          "name": "washingmachine"
+        },
+        {
+          "name": "stonefloor"
+        },
+        {
+          "name": "tumbler"
+        },
+        {
+          "name": "parquetflooring"
+        },
+        {
+          "name": "cable"
+        },
+        {
+          "name": "dishwasher"
+        },
+        {
+          "name": "fireplace"
+        },
+        {
+          "name": "garage"
+        },
+        {
+          "name": "balconygarden"
+        },
+        {
+          "name": "parkingspace"
+        },
+        {
+          "name": "view"
+        }
+      ],
+      "is_furnished": false,
+      "is_temporary": false,
+      "is_selling_furniture": false,
+      "show_exact_address": true,
+      "zipcode": 8468,
+      "city": "Guntalingen",
+      "public_address": "Dorfstrasse 20, 8468 Guntalingen",
+      "latitude": 47.6333981,
+      "longitude": 8.7674768,
+      "year_built": 1999,
+      "moving_date_type": "dat",
+      "moving_date": "2019-11-01",
+      "video_url": "",
+      "tour_url": "",
+      "website_url": "",
+      "cover_image": {
+        "pk": 1704774,
+        "caption": "5.5 Zimmer Eckhaus",
+        "url": "/media/ff/2019/10/1tjcx13ivybcgkbckawoo7jwcynvc4cn1h7zf4ags898hk53uo.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/1tjcx13ivybcgkbckawoo7jwcynvc4cn1h7zf4ags898hk53uo.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/1tjcx13ivybcgkbckawoo7jwcynvc4cn1h7zf4ags898hk53uo.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/1tjcx13ivybcgkbckawoo7jwcynvc4cn1h7zf4ags898hk53uo.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 1280,
+        "height": 960
+      },
+      "images": [
+        {
+          "pk": 1704774,
+          "caption": "5.5 Zimmer Eckhaus",
+          "url": "/media/ff/2019/10/1tjcx13ivybcgkbckawoo7jwcynvc4cn1h7zf4ags898hk53uo.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/1tjcx13ivybcgkbckawoo7jwcynvc4cn1h7zf4ags898hk53uo.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/1tjcx13ivybcgkbckawoo7jwcynvc4cn1h7zf4ags898hk53uo.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/1tjcx13ivybcgkbckawoo7jwcynvc4cn1h7zf4ags898hk53uo.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 1280,
+          "height": 960
+        },
+        {
+          "pk": 1704787,
+          "caption": "Wohnzimmer mit Kachelofen",
+          "url": "/media/ff/2019/10/45vzybh7tjmwkka5p3b9l0dif5954hfipiwgr4evr4a4p762oe.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/45vzybh7tjmwkka5p3b9l0dif5954hfipiwgr4evr4a4p762oe.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/45vzybh7tjmwkka5p3b9l0dif5954hfipiwgr4evr4a4p762oe.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/45vzybh7tjmwkka5p3b9l0dif5954hfipiwgr4evr4a4p762oe.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 676,
+          "height": 723
+        },
+        {
+          "pk": 1704791,
+          "caption": "Küche und Esszimmer",
+          "url": "/media/ff/2019/10/ed2tdt2x0qp9qjjb666d3goynbvrdax486vp88rjopxg853zjm.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/ed2tdt2x0qp9qjjb666d3goynbvrdax486vp88rjopxg853zjm.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/ed2tdt2x0qp9qjjb666d3goynbvrdax486vp88rjopxg853zjm.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/ed2tdt2x0qp9qjjb666d3goynbvrdax486vp88rjopxg853zjm.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 3,
+          "width": 741,
+          "height": 1044
+        },
+        {
+          "pk": 1704788,
+          "caption": "Zimmer mit Dachschrägen im obersten Stockwerk",
+          "url": "/media/ff/2019/10/ulx0i6mqrbmiswmdrmwdt5bf7yoay03jkuqedazt24fiinhn32.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/ulx0i6mqrbmiswmdrmwdt5bf7yoay03jkuqedazt24fiinhn32.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/ulx0i6mqrbmiswmdrmwdt5bf7yoay03jkuqedazt24fiinhn32.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/ulx0i6mqrbmiswmdrmwdt5bf7yoay03jkuqedazt24fiinhn32.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 4,
+          "width": 699,
+          "height": 811
+        },
+        {
+          "pk": 1704789,
+          "caption": "Zimmer im 2. und 3. Obergeschoss",
+          "url": "/media/ff/2019/10/blxh684x0gyljn9whbwhfp6o6zfp6pzitzfwaxwai0ubbxft65.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/blxh684x0gyljn9whbwhfp6o6zfp6pzitzfwaxwai0ubbxft65.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/blxh684x0gyljn9whbwhfp6o6zfp6pzitzfwaxwai0ubbxft65.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/blxh684x0gyljn9whbwhfp6o6zfp6pzitzfwaxwai0ubbxft65.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 5,
+          "width": 736,
+          "height": 841
+        },
+        {
+          "pk": 1704790,
+          "caption": "zwei Badezimmer und Reduit",
+          "url": "/media/ff/2019/10/l2bk6wdnirv73yow1pvotdazcoirp9kdh5haudc3ihqkfd1j1i.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/l2bk6wdnirv73yow1pvotdazcoirp9kdh5haudc3ihqkfd1j1i.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/l2bk6wdnirv73yow1pvotdazcoirp9kdh5haudc3ihqkfd1j1i.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/l2bk6wdnirv73yow1pvotdazcoirp9kdh5haudc3ihqkfd1j1i.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 6,
+          "width": 750,
+          "height": 856
+        },
+        {
+          "pk": 1704792,
+          "caption": "Terrasse und Sitzplatz",
+          "url": "/media/ff/2019/10/34uuslb4vxlsemz7j5rdj7u8favakaxcjvzb7gw09hb3pk6hs7.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/34uuslb4vxlsemz7j5rdj7u8favakaxcjvzb7gw09hb3pk6hs7.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/34uuslb4vxlsemz7j5rdj7u8favakaxcjvzb7gw09hb3pk6hs7.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/34uuslb4vxlsemz7j5rdj7u8favakaxcjvzb7gw09hb3pk6hs7.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 7,
+          "width": 746,
+          "height": 847
+        }
+      ],
+      "documents": [],
+      "organization": null,
+      "id": 128615,
+      "cover_image_url": "/media/thumbs/ff/2019/10/1tjcx13ivybcgkbckawoo7jwcynvc4cn1h7zf4ags898hk53uo.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "5 ½ rooms apartment, 8468 Guntalingen",
+      "rent_display": 2200,
+      "category": "APARTMENT",
+      "public_subtitle": "Dorfstrasse 20, 8468 Guntalingen - CHF 2,200 incl. utilities per month"
+    },
+    {
+      "pk": 128605,
+      "slug": "balsberg-8302-kloten",
+      "url": "/en/flat/balsberg-8302-kloten/128605/",
+      "short_url": "/128605/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "RENT",
+      "object_category": "SHARED",
+      "object_type": "SHARED_FLAT",
+      "ref_property": "",
+      "ref_house": "",
+      "ref_object": "",
+      "price_display": 750,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "rent_net": null,
+      "rent_charges": 25,
+      "rent_gross": 750,
+      "short_title": "Room in a shared flat",
+      "public_title": "Balsberg, 8302 Kloten - CHF 750 incl. utilities per month",
+      "rent_title": "Rent a Room in a shared flat in Kloten",
+      "description_title": "Großzügiges WG Zimmer mit Top Anbindung befristet zu vermieten",
+      "description": "Gemütliches Zimmer in der Nähe des Flughafens mit guter Anbindung an Bus und Bahn. Das Zimmer ist in einer 3er WG, wir haben ein großes Wohn- und Esszimmer sowie ein Badezimmer und ein Gäste WC. 15 Minuten zu Fuß zum Flughafen und nur 5 Minuten zur Bahn. Das Zimmer ist ca 11 Quadratmeter groß. Bett und Möbel bleiben für die Zeit im Zimmer. Bei Interesse meldet euch gerne bei mir!",
+      "livingspace": 16,
+      "number_of_rooms": "1.0",
+      "floor": 2,
+      "attributes": [
+        {
+          "name": "broadbandinternet"
+        },
+        {
+          "name": "washingmachine"
+        },
+        {
+          "name": "tumbler"
+        },
+        {
+          "name": "fireplace"
+        },
+        {
+          "name": "lift"
+        },
+        {
+          "name": "balconygarden"
+        }
+      ],
+      "is_furnished": true,
+      "is_temporary": true,
+      "is_selling_furniture": false,
+      "show_exact_address": true,
+      "zipcode": 8302,
+      "city": "Kloten",
+      "public_address": "Balsberg, 8302 Kloten",
+      "latitude": 47.4423672,
+      "longitude": 8.5742536,
+      "year_built": null,
+      "moving_date_type": "dat",
+      "moving_date": "2019-11-01",
+      "video_url": "",
+      "tour_url": "",
+      "website_url": "",
+      "cover_image": {
+        "pk": 1704686,
+        "caption": "",
+        "url": "/media/ff/2019/10/47ytay2qb05alo12wdlukzkdb4p9d0oucaw5fuuhmekng0ouwt.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/47ytay2qb05alo12wdlukzkdb4p9d0oucaw5fuuhmekng0ouwt.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/47ytay2qb05alo12wdlukzkdb4p9d0oucaw5fuuhmekng0ouwt.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/47ytay2qb05alo12wdlukzkdb4p9d0oucaw5fuuhmekng0ouwt.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 1400,
+        "height": 788
+      },
+      "images": [
+        {
+          "pk": 1704686,
+          "caption": "",
+          "url": "/media/ff/2019/10/47ytay2qb05alo12wdlukzkdb4p9d0oucaw5fuuhmekng0ouwt.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/47ytay2qb05alo12wdlukzkdb4p9d0oucaw5fuuhmekng0ouwt.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/47ytay2qb05alo12wdlukzkdb4p9d0oucaw5fuuhmekng0ouwt.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/47ytay2qb05alo12wdlukzkdb4p9d0oucaw5fuuhmekng0ouwt.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 1400,
+          "height": 788
+        },
+        {
+          "pk": 1704687,
+          "caption": "",
+          "url": "/media/ff/2019/10/kx06w0677cchvgxp7s3dz83eeaw871zwur2v62yobesyhpwjgf.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/kx06w0677cchvgxp7s3dz83eeaw871zwur2v62yobesyhpwjgf.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/kx06w0677cchvgxp7s3dz83eeaw871zwur2v62yobesyhpwjgf.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/kx06w0677cchvgxp7s3dz83eeaw871zwur2v62yobesyhpwjgf.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 1400,
+          "height": 788
+        }
+      ],
+      "documents": [],
+      "organization": null,
+      "id": 128605,
+      "cover_image_url": "/media/thumbs/ff/2019/10/47ytay2qb05alo12wdlukzkdb4p9d0oucaw5fuuhmekng0ouwt.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "Room in a shared flat, 8302 Kloten",
+      "rent_display": 750,
+      "category": "SHARED",
+      "public_subtitle": "Balsberg, 8302 Kloten - CHF 750 incl. utilities per month"
+    },
+    {
+      "pk": 128604,
+      "slug": "winterthurerstrasse-336-8057-zurich",
+      "url": "/en/flat/winterthurerstrasse-336-8057-zurich/128604/",
+      "short_url": "/128604/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "RENT",
+      "object_category": "APARTMENT",
+      "object_type": "APARTMENT",
+      "ref_property": "",
+      "ref_house": "",
+      "ref_object": "",
+      "price_display": 2390,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "rent_net": null,
+      "rent_charges": 220,
+      "rent_gross": 2390,
+      "short_title": "3 ½ rooms apartment",
+      "public_title": "Winterthurerstrasse 336, 8057 Zürich - CHF 2,390 incl. utilities per month",
+      "rent_title": "Rent a 3 ½ rooms apartment in Zürich",
+      "description_title": "Fantastische 3.5 Terrassenwohnung per 1.12.19",
+      "description": "Sehr ungern und aufgrund von Familienzuwachs suchen wir einen Nachmieter für dieses Schmuckstück.\n\nDie Wohnung verfügt über:\n- 2 Schlafzimmer\n- ein Bad mit 2 Lavabos und grosser Eckbadewanne\n- eine moderne Küche mit Geschirrspülmaschine, grosszügiger Arbeitsfläche und grossem Gefrierschrank.\n- Katzentüre bereits eingebaut\n2 Terrassen (eine grosse, teilgedeckte und eine kleine gedeckte und Windgeschützte), die über einen Kiesweg verbunden sind. Perfekt für Urban Gardening.\n\nDer zusätzliche Abstellraum, der über die Terrasse zu erreichen ist, ist nicht beheizt aber bietet neben dem Keller viel Stauraum und eine gute Möglichkeit gewisse Pflanzen bei 10C zu überwintern. Auch wäre ein Anschluss für eine Waschmaschine vorhanden.\n\nGleich um die Ecke befindet sich die Tramhaltestelle für die Linien 7 und 9 mit der man das Stadtzentrum mit der 7 oder das Unispital mit der Linie 9 in 15 Minuten erreicht.\nDie Haltestelle Milchbuck ist nur 2 Stationen entfernt und bietet viele weitere Umstiegsmöglichkeiten.\nDes weiteren gibt es die Buslinie 75 die in 5 Minuten zum Bahnhof Oerlikon fährt.\n\nGleich 2 Minuten entfernt gibt es ein kleiner Quartierladen und einen Kiosk für den kleinen Einkauf und auch die Glas/Alusammelstelle befindet sich dort.\nMigros, Coop, weitere Geschäfte und die Post am Schwamendingerplatz sind ebenfalls schnell per Tram zu erreichen.",
+      "livingspace": 70,
+      "number_of_rooms": "3.5",
+      "floor": 0,
+      "attributes": [
+        {
+          "name": "petsallowed"
+        },
+        {
+          "name": "broadbandinternet"
+        },
+        {
+          "name": "cable"
+        },
+        {
+          "name": "dishwasher"
+        },
+        {
+          "name": "lift"
+        },
+        {
+          "name": "balconygarden"
+        },
+        {
+          "name": "garage"
+        }
+      ],
+      "is_furnished": false,
+      "is_temporary": false,
+      "is_selling_furniture": false,
+      "show_exact_address": true,
+      "zipcode": 8057,
+      "city": "Zürich",
+      "public_address": "Winterthurerstrasse 336, 8057 Zürich",
+      "latitude": 47.4033474,
+      "longitude": 8.5577637,
+      "year_built": null,
+      "moving_date_type": "agr",
+      "moving_date": null,
+      "video_url": "",
+      "tour_url": "",
+      "website_url": "",
+      "cover_image": {
+        "pk": 1704674,
+        "caption": "Wohnzimmer",
+        "url": "/media/ff/2019/10/84uuzklni1wd20ks2ixzsz7stbsyhcxui7g2n4iv5a6qcxtaq6.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/84uuzklni1wd20ks2ixzsz7stbsyhcxui7g2n4iv5a6qcxtaq6.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/84uuzklni1wd20ks2ixzsz7stbsyhcxui7g2n4iv5a6qcxtaq6.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/84uuzklni1wd20ks2ixzsz7stbsyhcxui7g2n4iv5a6qcxtaq6.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 1400,
+        "height": 1050
+      },
+      "images": [
+        {
+          "pk": 1704674,
+          "caption": "Wohnzimmer",
+          "url": "/media/ff/2019/10/84uuzklni1wd20ks2ixzsz7stbsyhcxui7g2n4iv5a6qcxtaq6.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/84uuzklni1wd20ks2ixzsz7stbsyhcxui7g2n4iv5a6qcxtaq6.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/84uuzklni1wd20ks2ixzsz7stbsyhcxui7g2n4iv5a6qcxtaq6.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/84uuzklni1wd20ks2ixzsz7stbsyhcxui7g2n4iv5a6qcxtaq6.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704677,
+          "caption": "grosse Terrasse",
+          "url": "/media/ff/2019/10/zkwgktj62z9my3iwmbcokq8sgu0rpox8rs5ngxby2smtlc904d.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/zkwgktj62z9my3iwmbcokq8sgu0rpox8rs5ngxby2smtlc904d.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/zkwgktj62z9my3iwmbcokq8sgu0rpox8rs5ngxby2smtlc904d.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/zkwgktj62z9my3iwmbcokq8sgu0rpox8rs5ngxby2smtlc904d.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704672,
+          "caption": "Wohnzimmer/Küche",
+          "url": "/media/ff/2019/10/08gqszop2lq8soppad1g8qu2om4e19uir8fwjocn5bg82m9tx9.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/08gqszop2lq8soppad1g8qu2om4e19uir8fwjocn5bg82m9tx9.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/08gqszop2lq8soppad1g8qu2om4e19uir8fwjocn5bg82m9tx9.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/08gqszop2lq8soppad1g8qu2om4e19uir8fwjocn5bg82m9tx9.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 4,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704666,
+          "caption": "Schlafzimmer",
+          "url": "/media/ff/2019/10/o54tilvnj2g4qww3fge0dcd3vvom1dqrwbz88arodapv5dx5tb.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/o54tilvnj2g4qww3fge0dcd3vvom1dqrwbz88arodapv5dx5tb.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/o54tilvnj2g4qww3fge0dcd3vvom1dqrwbz88arodapv5dx5tb.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/o54tilvnj2g4qww3fge0dcd3vvom1dqrwbz88arodapv5dx5tb.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 5,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704670,
+          "caption": "Schlafzimmer",
+          "url": "/media/ff/2019/10/71tjm823rdyye4g29cia31wg3bzusctqamchzc9rj30i6vy5eq.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/71tjm823rdyye4g29cia31wg3bzusctqamchzc9rj30i6vy5eq.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/71tjm823rdyye4g29cia31wg3bzusctqamchzc9rj30i6vy5eq.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/71tjm823rdyye4g29cia31wg3bzusctqamchzc9rj30i6vy5eq.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 6,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704669,
+          "caption": "Schlafzimmer/Büro",
+          "url": "/media/ff/2019/10/oxewx0rdfrtiqafqmeo1b4v65e29bw25ftupmc3hhvgscc3b0i.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/oxewx0rdfrtiqafqmeo1b4v65e29bw25ftupmc3hhvgscc3b0i.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/oxewx0rdfrtiqafqmeo1b4v65e29bw25ftupmc3hhvgscc3b0i.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/oxewx0rdfrtiqafqmeo1b4v65e29bw25ftupmc3hhvgscc3b0i.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 7,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704667,
+          "caption": "Schlafzimmer/Büro",
+          "url": "/media/ff/2019/10/jf6rdx4o7umlllz8vwyoxxzgbvft17uuso7exvohnqs4uag1x1.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/jf6rdx4o7umlllz8vwyoxxzgbvft17uuso7exvohnqs4uag1x1.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/jf6rdx4o7umlllz8vwyoxxzgbvft17uuso7exvohnqs4uag1x1.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/jf6rdx4o7umlllz8vwyoxxzgbvft17uuso7exvohnqs4uag1x1.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 8,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704665,
+          "caption": "Korridor",
+          "url": "/media/ff/2019/10/mddig2gd96tn91utoek892o7y9zf1j91k5qth3rcdbzo3jqvjs.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/mddig2gd96tn91utoek892o7y9zf1j91k5qth3rcdbzo3jqvjs.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/mddig2gd96tn91utoek892o7y9zf1j91k5qth3rcdbzo3jqvjs.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/mddig2gd96tn91utoek892o7y9zf1j91k5qth3rcdbzo3jqvjs.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 9,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704668,
+          "caption": "Badezimmer",
+          "url": "/media/ff/2019/10/b78l62wietywvdh1dc435ihvw67fj6euhirk13iokncm8iknpc.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/b78l62wietywvdh1dc435ihvw67fj6euhirk13iokncm8iknpc.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/b78l62wietywvdh1dc435ihvw67fj6euhirk13iokncm8iknpc.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/b78l62wietywvdh1dc435ihvw67fj6euhirk13iokncm8iknpc.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 10,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704673,
+          "caption": "grosser Abstellraum",
+          "url": "/media/ff/2019/10/tsn7hr0vnbr5nzizq613dlk8zpvmm6y2r1yflvy2gjqqd8aahs.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/tsn7hr0vnbr5nzizq613dlk8zpvmm6y2r1yflvy2gjqqd8aahs.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/tsn7hr0vnbr5nzizq613dlk8zpvmm6y2r1yflvy2gjqqd8aahs.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/tsn7hr0vnbr5nzizq613dlk8zpvmm6y2r1yflvy2gjqqd8aahs.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 11,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704675,
+          "caption": "Terrasse",
+          "url": "/media/ff/2019/10/ao6a72c97pw4emrce317z299zf0k1a0ywh4ptvx0nrtbali6l4.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/ao6a72c97pw4emrce317z299zf0k1a0ywh4ptvx0nrtbali6l4.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/ao6a72c97pw4emrce317z299zf0k1a0ywh4ptvx0nrtbali6l4.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/ao6a72c97pw4emrce317z299zf0k1a0ywh4ptvx0nrtbali6l4.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 12,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704679,
+          "caption": "Terrasse",
+          "url": "/media/ff/2019/10/20m839zhg9mv1fpzvbssriqqzbjykyuz63v501wnw88ivpvlft.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/20m839zhg9mv1fpzvbssriqqzbjykyuz63v501wnw88ivpvlft.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/20m839zhg9mv1fpzvbssriqqzbjykyuz63v501wnw88ivpvlft.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/20m839zhg9mv1fpzvbssriqqzbjykyuz63v501wnw88ivpvlft.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 13,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704680,
+          "caption": "",
+          "url": "/media/ff/2019/10/6imo44amwrg37liqjdb50rcazn4fxxq1ppqg8mc0er3rt79klj.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/6imo44amwrg37liqjdb50rcazn4fxxq1ppqg8mc0er3rt79klj.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/6imo44amwrg37liqjdb50rcazn4fxxq1ppqg8mc0er3rt79klj.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/6imo44amwrg37liqjdb50rcazn4fxxq1ppqg8mc0er3rt79klj.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 14,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704681,
+          "caption": "",
+          "url": "/media/ff/2019/10/6hop9ymzvb96tjovg7e9bzg0i7wm4k00efr44vai9hx2c2qwxm.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/6hop9ymzvb96tjovg7e9bzg0i7wm4k00efr44vai9hx2c2qwxm.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/6hop9ymzvb96tjovg7e9bzg0i7wm4k00efr44vai9hx2c2qwxm.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/6hop9ymzvb96tjovg7e9bzg0i7wm4k00efr44vai9hx2c2qwxm.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 15,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704682,
+          "caption": "Sitzplatz",
+          "url": "/media/ff/2019/10/px09q58n4uh4zxo6ig6legxpugx5t872msc52ig0auxc3g8f8f.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/px09q58n4uh4zxo6ig6legxpugx5t872msc52ig0auxc3g8f8f.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/px09q58n4uh4zxo6ig6legxpugx5t872msc52ig0auxc3g8f8f.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/px09q58n4uh4zxo6ig6legxpugx5t872msc52ig0auxc3g8f8f.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 16,
+          "width": 1400,
+          "height": 1050
+        }
+      ],
+      "documents": [],
+      "organization": null,
+      "id": 128604,
+      "cover_image_url": "/media/thumbs/ff/2019/10/84uuzklni1wd20ks2ixzsz7stbsyhcxui7g2n4iv5a6qcxtaq6.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "3 ½ rooms apartment, 8057 Zürich",
+      "rent_display": 2390,
+      "category": "APARTMENT",
+      "public_subtitle": "Winterthurerstrasse 336, 8057 Zürich - CHF 2,390 incl. utilities per month"
+    },
+    {
+      "pk": 128602,
+      "slug": "sonnenbergstrasse-40-8800-thalwil",
+      "url": "/en/flat/sonnenbergstrasse-40-8800-thalwil/128602/",
+      "short_url": "/128602/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "RENT",
+      "object_category": "APARTMENT",
+      "object_type": "APARTMENT",
+      "ref_property": "",
+      "ref_house": "",
+      "ref_object": "",
+      "price_display": 1890,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "rent_net": 1800,
+      "rent_charges": 90,
+      "rent_gross": null,
+      "short_title": "2 ½ rooms apartment",
+      "public_title": "Sonnenbergstrasse 40, 8800 Thalwil - CHF 1,890 incl. utilities per month",
+      "rent_title": "Rent a 2 ½ rooms apartment in Thalwil",
+      "description_title": "Grosszügige 2.5 Zimmer-Wohnung an zentraler Lage",
+      "description": "2.5 Zimmer Wohnung\nAn der Sonnenbergstrasse 40 in 8800 Thalwil vermieten wir ab dem 4. Dezember 2019 oder nach Vereinbarung eine attraktive 2,5-Zimmerwohnung (68.3 m2) mit einem sonnigen Balkon. \n\nDiese Wohnung verfügt über:\n-Eingang mit Einbauschränken \n-Küche mit vorliegendem Esszimmer à 10.3 m2\n-Wohnzimmer à 26.7 m2\n-Schlafzimmer à 16.1 m2\n-Badezimmer mit Badewanne, WC und Doppellavabo\n-eigene Waschmaschine/Tumbler \n-Balkon\n\nDie ganze Wohnung ist mit hellen Keramikplatten versehen. \nEin Kellerabteil ist im Untergeschoss vorhanden. \nGarageparkplatz kann für CHF 150.00 pro Monat dazu gemietet werden.\n\nDieses gepflegte Mehrfamilienhaus ist zentral gelegen. Das nahegelegene Zentrum mit dem Bahnhof und der Gotthardstrasse mit den diversen Einkaufsmöglichkeiten erreichen Sie zu Fuss in 5 Minuten. \n\nHaben wir Ihr Interesse geweckt? Dann verschaffen Sie sich bei der Besichtigung einen eigenen Eindruck von der tolle Wohnung. \n\nBesichtigungstermin am:\n-Sonntag, 6.10.19 von 11:00 bis 14:00 Uhr \n-Dienstag 8.10.19 von 17:00 bis 20:00 Uhr\n-Sonntag 13.10.19 von 11:00 bis 14:00 Uhr\n-Dienstag 15.10.19 von 17:00 bis 20:00 Uhr\n-Sonntag 20.10.19 von 11:00 bis 14:00 Uhr",
+      "livingspace": 68,
+      "number_of_rooms": "2.5",
+      "floor": 1,
+      "attributes": [
+        {
+          "name": "stonefloor"
+        },
+        {
+          "name": "washingmachine"
+        },
+        {
+          "name": "tumbler"
+        },
+        {
+          "name": "dishwasher"
+        },
+        {
+          "name": "balconygarden"
+        },
+        {
+          "name": "lift"
+        },
+        {
+          "name": "garage"
+        }
+      ],
+      "is_furnished": false,
+      "is_temporary": false,
+      "is_selling_furniture": false,
+      "show_exact_address": true,
+      "zipcode": 8800,
+      "city": "Thalwil",
+      "public_address": "Sonnenbergstrasse 40, 8800 Thalwil",
+      "latitude": 47.2929427,
+      "longitude": 8.5586688,
+      "year_built": null,
+      "moving_date_type": "dat",
+      "moving_date": "2019-12-04",
+      "video_url": "",
+      "tour_url": "",
+      "website_url": "",
+      "cover_image": {
+        "pk": 1704629,
+        "caption": "",
+        "url": "/media/ff/2019/10/fsqamirudlrtiifgzf16myfvgfr1jenkkmvurq0chd1lriwovq.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/fsqamirudlrtiifgzf16myfvgfr1jenkkmvurq0chd1lriwovq.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/fsqamirudlrtiifgzf16myfvgfr1jenkkmvurq0chd1lriwovq.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/fsqamirudlrtiifgzf16myfvgfr1jenkkmvurq0chd1lriwovq.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 640,
+        "height": 423
+      },
+      "images": [
+        {
+          "pk": 1704629,
+          "caption": "",
+          "url": "/media/ff/2019/10/fsqamirudlrtiifgzf16myfvgfr1jenkkmvurq0chd1lriwovq.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/fsqamirudlrtiifgzf16myfvgfr1jenkkmvurq0chd1lriwovq.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/fsqamirudlrtiifgzf16myfvgfr1jenkkmvurq0chd1lriwovq.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/fsqamirudlrtiifgzf16myfvgfr1jenkkmvurq0chd1lriwovq.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 640,
+          "height": 423
+        },
+        {
+          "pk": 1704630,
+          "caption": "",
+          "url": "/media/ff/2019/10/wqjztt1l2hjy27nnntp7t2exz23ovicqeg130r3ftqb56gzvr1.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/wqjztt1l2hjy27nnntp7t2exz23ovicqeg130r3ftqb56gzvr1.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/wqjztt1l2hjy27nnntp7t2exz23ovicqeg130r3ftqb56gzvr1.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/wqjztt1l2hjy27nnntp7t2exz23ovicqeg130r3ftqb56gzvr1.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 480,
+          "height": 640
+        },
+        {
+          "pk": 1704646,
+          "caption": "",
+          "url": "/media/ff/2019/10/d6lc5y4dnaflfcfc8jb0rnfdpskn73m0i12wxzkyxkrp2awcas.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/d6lc5y4dnaflfcfc8jb0rnfdpskn73m0i12wxzkyxkrp2awcas.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/d6lc5y4dnaflfcfc8jb0rnfdpskn73m0i12wxzkyxkrp2awcas.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/d6lc5y4dnaflfcfc8jb0rnfdpskn73m0i12wxzkyxkrp2awcas.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 3,
+          "width": 480,
+          "height": 640
+        },
+        {
+          "pk": 1704647,
+          "caption": "",
+          "url": "/media/ff/2019/10/zjt2ads9lnoi3wx0ukc2osqpij2985iznh6d9v6ufb62qr357z.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/zjt2ads9lnoi3wx0ukc2osqpij2985iznh6d9v6ufb62qr357z.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/zjt2ads9lnoi3wx0ukc2osqpij2985iznh6d9v6ufb62qr357z.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/zjt2ads9lnoi3wx0ukc2osqpij2985iznh6d9v6ufb62qr357z.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 4,
+          "width": 480,
+          "height": 640
+        },
+        {
+          "pk": 1704648,
+          "caption": "",
+          "url": "/media/ff/2019/10/3xnpeug4wbknql1at5tjnfd9wsxoivptkzn1m8lfjludup8zt8.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/3xnpeug4wbknql1at5tjnfd9wsxoivptkzn1m8lfjludup8zt8.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/3xnpeug4wbknql1at5tjnfd9wsxoivptkzn1m8lfjludup8zt8.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/3xnpeug4wbknql1at5tjnfd9wsxoivptkzn1m8lfjludup8zt8.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 5,
+          "width": 480,
+          "height": 640
+        },
+        {
+          "pk": 1704649,
+          "caption": "",
+          "url": "/media/ff/2019/10/3m2u4k3r4jgk5glqludaugu20kv3340pwe7ytisxe6lajww8wf.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/3m2u4k3r4jgk5glqludaugu20kv3340pwe7ytisxe6lajww8wf.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/3m2u4k3r4jgk5glqludaugu20kv3340pwe7ytisxe6lajww8wf.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/3m2u4k3r4jgk5glqludaugu20kv3340pwe7ytisxe6lajww8wf.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 6,
+          "width": 480,
+          "height": 640
+        },
+        {
+          "pk": 1704650,
+          "caption": "",
+          "url": "/media/ff/2019/10/6btq7bqlsm6e2sr07kdj9rmj3xhedqqp95pttlnw24zs2arpoz.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/6btq7bqlsm6e2sr07kdj9rmj3xhedqqp95pttlnw24zs2arpoz.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/6btq7bqlsm6e2sr07kdj9rmj3xhedqqp95pttlnw24zs2arpoz.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/6btq7bqlsm6e2sr07kdj9rmj3xhedqqp95pttlnw24zs2arpoz.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 7,
+          "width": 480,
+          "height": 640
+        },
+        {
+          "pk": 1704651,
+          "caption": "",
+          "url": "/media/ff/2019/10/4nfsmxqhpc14kj9x3bfymd723dxhut0nechmirhpkli919wixo.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/4nfsmxqhpc14kj9x3bfymd723dxhut0nechmirhpkli919wixo.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/4nfsmxqhpc14kj9x3bfymd723dxhut0nechmirhpkli919wixo.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/4nfsmxqhpc14kj9x3bfymd723dxhut0nechmirhpkli919wixo.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 8,
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "documents": [],
+      "organization": null,
+      "id": 128602,
+      "cover_image_url": "/media/thumbs/ff/2019/10/fsqamirudlrtiifgzf16myfvgfr1jenkkmvurq0chd1lriwovq.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "2 ½ rooms apartment, 8800 Thalwil",
+      "rent_display": 1890,
+      "category": "APARTMENT",
+      "public_subtitle": "Sonnenbergstrasse 40, 8800 Thalwil - CHF 1,890 incl. utilities per month"
+    },
+    {
+      "pk": 128601,
+      "slug": "rue-des-cretets-139-2300-la-chaux-de-fonds",
+      "url": "/en/flat/rue-des-cretets-139-2300-la-chaux-de-fonds/128601/",
+      "short_url": "/128601/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "RENT",
+      "object_category": "APARTMENT",
+      "object_type": "APARTMENT",
+      "ref_property": "09702",
+      "ref_house": "01",
+      "ref_object": "0020",
+      "price_display": 1210,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "rent_net": 930,
+      "rent_charges": 280,
+      "rent_gross": 1210,
+      "short_title": "3 rooms apartment",
+      "public_title": "Rue des Crêtets 139, 2300 La Chaux-de-Fonds - CHF 1,210 incl. utilities per month",
+      "rent_title": "Rent a 3 rooms apartment in La Chaux-de-Fonds",
+      "description_title": "Votre premier loyer net offert !",
+      "description": "Logement spacieux composé de : \n\n- Cuisine agencée entièrement équipée\n- Hall d'entrée avec armoires \n- Séjour lumineux donnant accès au balcon\n- Chambres à coucher avec parquet\n- Salle de bains avec baignoire\n- Possibilité d'installer une colonne de lavage\n\n- Immeuble avec ascenseurs \n- Bâtiment certifié Minergie\n\n- Garantie de loyer offerte\n\n- Possibilité de louer un garage en supplément",
+      "livingspace": 75,
+      "number_of_rooms": "3.0",
+      "floor": 5,
+      "attributes": [
+        {
+          "name": "petsallowed"
+        },
+        {
+          "name": "garage"
+        },
+        {
+          "name": "parkingspace"
+        },
+        {
+          "name": "balconygarden"
+        },
+        {
+          "name": "cable"
+        },
+        {
+          "name": "lift"
+        },
+        {
+          "name": "minergie"
+        }
+      ],
+      "is_furnished": false,
+      "is_temporary": false,
+      "is_selling_furniture": false,
+      "show_exact_address": true,
+      "zipcode": 2300,
+      "city": "La Chaux-de-Fonds",
+      "public_address": "Rue des Crêtets 139, 2300 La Chaux-de-Fonds",
+      "latitude": 47.0897885,
+      "longitude": 6.8151687,
+      "year_built": 1964,
+      "moving_date_type": "imm",
+      "moving_date": null,
+      "video_url": null,
+      "tour_url": null,
+      "website_url": "https://www.mywincasa.ch/rental/detail/675de0f5-01c9-4ca7-95c3-ab4e307fac40?utm_campaign=idx&amp;utm_source=owp&amp;utm_medium=website",
+      "cover_image": {
+        "pk": 1704625,
+        "caption": "Cuisine",
+        "url": "/media/ff/2019/10/wqp8hgytunzazchtw33nu06ujz6u1u6nj5ntvmjc06hur9aqef.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/wqp8hgytunzazchtw33nu06ujz6u1u6nj5ntvmjc06hur9aqef.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/wqp8hgytunzazchtw33nu06ujz6u1u6nj5ntvmjc06hur9aqef.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/wqp8hgytunzazchtw33nu06ujz6u1u6nj5ntvmjc06hur9aqef.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 1050,
+        "height": 1400
+      },
+      "images": [
+        {
+          "pk": 1704625,
+          "caption": "Cuisine",
+          "url": "/media/ff/2019/10/wqp8hgytunzazchtw33nu06ujz6u1u6nj5ntvmjc06hur9aqef.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/wqp8hgytunzazchtw33nu06ujz6u1u6nj5ntvmjc06hur9aqef.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/wqp8hgytunzazchtw33nu06ujz6u1u6nj5ntvmjc06hur9aqef.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/wqp8hgytunzazchtw33nu06ujz6u1u6nj5ntvmjc06hur9aqef.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704626,
+          "caption": "Salle de bains",
+          "url": "/media/ff/2019/10/c6eue7br2rpg97udunxe18ygmqtnd6epq3tjtm8gtz3ewv3b51.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/c6eue7br2rpg97udunxe18ygmqtnd6epq3tjtm8gtz3ewv3b51.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/c6eue7br2rpg97udunxe18ygmqtnd6epq3tjtm8gtz3ewv3b51.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/c6eue7br2rpg97udunxe18ygmqtnd6epq3tjtm8gtz3ewv3b51.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704627,
+          "caption": "Pièce",
+          "url": "/media/ff/2019/10/5sq2hltx78ismf36ee9occrdqahuv50j3glplzdr7daodq8v5t.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/5sq2hltx78ismf36ee9occrdqahuv50j3glplzdr7daodq8v5t.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/5sq2hltx78ismf36ee9occrdqahuv50j3glplzdr7daodq8v5t.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/5sq2hltx78ismf36ee9occrdqahuv50j3glplzdr7daodq8v5t.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 3,
+          "width": 1050,
+          "height": 1400
+        }
+      ],
+      "documents": [],
+      "organization": {
+        "name": "Wincasa AG",
+        "logo": {
+          "url": "/media/thumbs/org/2017/10/6peni9fymo2cc61786gar305ykswouj2ocxop0wmxv0jck0arl.png.360x0_q85_upscale.png",
+          "url_org_logo_m": "/media/thumbs/org/2017/10/6peni9fymo2cc61786gar305ykswouj2ocxop0wmxv0jck0arl.png.360x0_q85_upscale.png"
+        }
+      },
+      "id": 128601,
+      "cover_image_url": "/media/thumbs/ff/2019/10/wqp8hgytunzazchtw33nu06ujz6u1u6nj5ntvmjc06hur9aqef.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "3 rooms apartment, 2300 La Chaux-de-Fonds",
+      "rent_display": 1210,
+      "category": "APARTMENT",
+      "public_subtitle": "Rue des Crêtets 139, 2300 La Chaux-de-Fonds - CHF 1,210 incl. utilities per month"
+    },
+    {
+      "pk": 128599,
+      "slug": "weinberghohe-10-6300-zug",
+      "url": "/en/flat/weinberghohe-10-6300-zug/128599/",
+      "short_url": "/128599/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "RENT",
+      "object_category": "SHARED",
+      "object_type": "SHARED_FLAT",
+      "ref_property": "",
+      "ref_house": "",
+      "ref_object": "",
+      "price_display": 1500,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "rent_net": null,
+      "rent_charges": null,
+      "rent_gross": 1500,
+      "short_title": "Room in a shared flat",
+      "public_title": "Weinberghöhe, 10, 6300 Zug - CHF 1,500 incl. utilities per month",
+      "rent_title": "Rent a Room in a shared flat in Zug",
+      "description_title": "WG Zimmer",
+      "description": "Suche ab sofort Mitbewohner oder eine Mitbewohnerin für meine 5.5 Zimmer ca. 120 m2 WG in Zug. \nDie Wohnung ist sehr gross und Zentral gelegen, die Busstation in unmittelbarer vor der Haustüre sowie ca. 7 min entfernt vom Bahnhof. Mit der Bahn ca. 35 Minuten Zürich und ca. 17 Minuten nach Luzern.\nDirekte Einkaufsmöglichkeiten sind vorhanden.\nGeräumig und Modern aufgeteilt mit Sitzplatz, Wohnzimmer und Parkett in allen Räumen. \nZu der Mitbenutzung:\n- 2 Zimmer sind ca. 12 m2 und 9 m2\n- Blick zum See, Fotos sind aus dem Zimmer/Balkon gemacht\n- 2 WC Zimmer\n- Waschmaschine\n- Wärmepumpentrockner\n- Grosse Balkon\n- Garden mit Grillplatz\n- Internet Zugang per Netzwerkanschluss /WLAN in der ganzen Wohnung\n\nDie Miete für 2 Zimmers beträgt 1500.- Monatlich inkl. Nebenkosten\n\nIch bin 49 Jahre alt, sportlich (Mountainbike, Yoga...), arbeite im Verkauf.\nMein Mitbewohner/in sollte zwischen 30 und 49 Jahre alt sein. Idealerweise ordentlich und gelegentlich gerne in Gesellschaft sein.",
+      "livingspace": 120,
+      "number_of_rooms": "1.0",
+      "floor": 3,
+      "attributes": [
+        {
+          "name": "petsallowed"
+        },
+        {
+          "name": "washingmachine"
+        },
+        {
+          "name": "broadbandinternet"
+        },
+        {
+          "name": "tumbler"
+        },
+        {
+          "name": "parquetflooring"
+        },
+        {
+          "name": "cable"
+        },
+        {
+          "name": "dishwasher"
+        },
+        {
+          "name": "balconygarden"
+        }
+      ],
+      "is_furnished": false,
+      "is_temporary": false,
+      "is_selling_furniture": false,
+      "show_exact_address": true,
+      "zipcode": 6300,
+      "city": "Zug",
+      "public_address": "Weinberghöhe, 10, 6300 Zug",
+      "latitude": 47.169588,
+      "longitude": 8.5273497,
+      "year_built": null,
+      "moving_date_type": "imm",
+      "moving_date": null,
+      "video_url": "",
+      "tour_url": "",
+      "website_url": "",
+      "cover_image": {
+        "pk": 1704587,
+        "caption": "",
+        "url": "/media/ff/2019/10/59aaejls434ag8wk9u63k64h5sb9fo4gvmgzbbh0a9dtjj5v67.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/59aaejls434ag8wk9u63k64h5sb9fo4gvmgzbbh0a9dtjj5v67.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/59aaejls434ag8wk9u63k64h5sb9fo4gvmgzbbh0a9dtjj5v67.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/59aaejls434ag8wk9u63k64h5sb9fo4gvmgzbbh0a9dtjj5v67.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 1400,
+        "height": 681
+      },
+      "images": [
+        {
+          "pk": 1704587,
+          "caption": "",
+          "url": "/media/ff/2019/10/59aaejls434ag8wk9u63k64h5sb9fo4gvmgzbbh0a9dtjj5v67.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/59aaejls434ag8wk9u63k64h5sb9fo4gvmgzbbh0a9dtjj5v67.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/59aaejls434ag8wk9u63k64h5sb9fo4gvmgzbbh0a9dtjj5v67.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/59aaejls434ag8wk9u63k64h5sb9fo4gvmgzbbh0a9dtjj5v67.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 1400,
+          "height": 681
+        },
+        {
+          "pk": 1704588,
+          "caption": "",
+          "url": "/media/ff/2019/10/7mgi93r8b96pz4gffqiuy3c8o2xykrja675dj66zzmiscb8rt4.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/7mgi93r8b96pz4gffqiuy3c8o2xykrja675dj66zzmiscb8rt4.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/7mgi93r8b96pz4gffqiuy3c8o2xykrja675dj66zzmiscb8rt4.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/7mgi93r8b96pz4gffqiuy3c8o2xykrja675dj66zzmiscb8rt4.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 1400,
+          "height": 681
+        },
+        {
+          "pk": 1704589,
+          "caption": "",
+          "url": "/media/ff/2019/10/ce24xs7py68a2dhra05k670b03jqqxo2a9sj1sqbbifxf3kvud.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/ce24xs7py68a2dhra05k670b03jqqxo2a9sj1sqbbifxf3kvud.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/ce24xs7py68a2dhra05k670b03jqqxo2a9sj1sqbbifxf3kvud.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/ce24xs7py68a2dhra05k670b03jqqxo2a9sj1sqbbifxf3kvud.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 3,
+          "width": 1400,
+          "height": 681
+        },
+        {
+          "pk": 1704590,
+          "caption": "",
+          "url": "/media/ff/2019/10/bpbapo1trw65ib1dy1hhthw7to3q28anhd7yeihg363ukfedrp.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/bpbapo1trw65ib1dy1hhthw7to3q28anhd7yeihg363ukfedrp.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/bpbapo1trw65ib1dy1hhthw7to3q28anhd7yeihg363ukfedrp.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/bpbapo1trw65ib1dy1hhthw7to3q28anhd7yeihg363ukfedrp.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 4,
+          "width": 681,
+          "height": 1400
+        },
+        {
+          "pk": 1704591,
+          "caption": "",
+          "url": "/media/ff/2019/10/8kozy3ll04cqongxd9gu3n3e5ipjsu0sitvvcz5l0pg853qpr1.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/8kozy3ll04cqongxd9gu3n3e5ipjsu0sitvvcz5l0pg853qpr1.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/8kozy3ll04cqongxd9gu3n3e5ipjsu0sitvvcz5l0pg853qpr1.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/8kozy3ll04cqongxd9gu3n3e5ipjsu0sitvvcz5l0pg853qpr1.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 5,
+          "width": 681,
+          "height": 1400
+        },
+        {
+          "pk": 1704592,
+          "caption": "",
+          "url": "/media/ff/2019/10/vo48eq2d5ygokajrxwdjrr66eee767gdi7kgz4o45o3mk521gx.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/vo48eq2d5ygokajrxwdjrr66eee767gdi7kgz4o45o3mk521gx.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/vo48eq2d5ygokajrxwdjrr66eee767gdi7kgz4o45o3mk521gx.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/vo48eq2d5ygokajrxwdjrr66eee767gdi7kgz4o45o3mk521gx.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 6,
+          "width": 681,
+          "height": 1400
+        },
+        {
+          "pk": 1704595,
+          "caption": "",
+          "url": "/media/ff/2019/10/mnnkhbcn99gb86fng5qe2b63miy8ihtn4jmlotzbou9wl3tpla.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/mnnkhbcn99gb86fng5qe2b63miy8ihtn4jmlotzbou9wl3tpla.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/mnnkhbcn99gb86fng5qe2b63miy8ihtn4jmlotzbou9wl3tpla.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/mnnkhbcn99gb86fng5qe2b63miy8ihtn4jmlotzbou9wl3tpla.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 7,
+          "width": 681,
+          "height": 1400
+        },
+        {
+          "pk": 1704608,
+          "caption": "",
+          "url": "/media/ff/2019/10/e5142xvei251rhc5e8iqxonflkru7tha4ucrq64ur1e9sj6ubv.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/e5142xvei251rhc5e8iqxonflkru7tha4ucrq64ur1e9sj6ubv.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/e5142xvei251rhc5e8iqxonflkru7tha4ucrq64ur1e9sj6ubv.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/e5142xvei251rhc5e8iqxonflkru7tha4ucrq64ur1e9sj6ubv.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 8,
+          "width": 1400,
+          "height": 681
+        },
+        {
+          "pk": 1704614,
+          "caption": "",
+          "url": "/media/ff/2019/10/ftxvgu2zkeis3dq9i1tpihoimh7n2cwatwwzlrdf2ith4g8yhw.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/ftxvgu2zkeis3dq9i1tpihoimh7n2cwatwwzlrdf2ith4g8yhw.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/ftxvgu2zkeis3dq9i1tpihoimh7n2cwatwwzlrdf2ith4g8yhw.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/ftxvgu2zkeis3dq9i1tpihoimh7n2cwatwwzlrdf2ith4g8yhw.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 9,
+          "width": 1400,
+          "height": 681
+        },
+        {
+          "pk": 1704616,
+          "caption": "",
+          "url": "/media/ff/2019/10/2o82m0vdz8d9evyj8pyw4cl0dqcgbu070f926ti5t91jvn8eqr.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/2o82m0vdz8d9evyj8pyw4cl0dqcgbu070f926ti5t91jvn8eqr.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/2o82m0vdz8d9evyj8pyw4cl0dqcgbu070f926ti5t91jvn8eqr.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/2o82m0vdz8d9evyj8pyw4cl0dqcgbu070f926ti5t91jvn8eqr.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 10,
+          "width": 1400,
+          "height": 681
+        }
+      ],
+      "documents": [],
+      "organization": null,
+      "id": 128599,
+      "cover_image_url": "/media/thumbs/ff/2019/10/59aaejls434ag8wk9u63k64h5sb9fo4gvmgzbbh0a9dtjj5v67.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "Room in a shared flat, 6300 Zug",
+      "rent_display": 1500,
+      "category": "SHARED",
+      "public_subtitle": "Weinberghöhe, 10, 6300 Zug - CHF 1,500 incl. utilities per month"
+    },
+    {
+      "pk": 128598,
+      "slug": "sandrainstrasse-6-3007-bern",
+      "url": "/en/flat/sandrainstrasse-6-3007-bern/128598/",
+      "short_url": "/128598/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "RENT",
+      "object_category": "APARTMENT",
+      "object_type": "APARTMENT",
+      "ref_property": "",
+      "ref_house": "",
+      "ref_object": "",
+      "price_display": 1300,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "rent_net": null,
+      "rent_charges": 200,
+      "rent_gross": 1300,
+      "short_title": "2 rooms apartment",
+      "public_title": "Sandrainstrasse 6, 3007 Bern - CHF 1,300 incl. utilities per month",
+      "rent_title": "Rent a 2 rooms apartment in Bern",
+      "description_title": "Moderne 2-Zimmer-Wohnung nächst Marzili",
+      "description": "Tolle Wohnung ab dem 01.12.2019 verfügbar:\n- Perfekter Standort im Marzili Quartier und Blick auf dem Bundeshaus\n- Moderne Gebäude und Wohnung, mit allen was man braucht\n- Tolle Dachterrasse zur Mitbenutzung mit wunderschöne Aussicht \n- Lift \n- Waschküche mit mehrere Waschmaschinen und Tumbler zur Mitbenutzung \n\nEin Einstellplatz in UG kann dazu für 130.- gemietet werden. Idealerweise suche ich jemand, der diesen Einstellplatz auch übernehmen wird.\n\nBei Fragen und für ein Besichtigungstermin stehe ich sehr gern zur Verfügung!",
+      "livingspace": 45,
+      "number_of_rooms": "2.0",
+      "floor": 2,
+      "attributes": [
+        {
+          "name": "dishwasher"
+        },
+        {
+          "name": "cable"
+        },
+        {
+          "name": "parquetflooring"
+        },
+        {
+          "name": "tumbler"
+        },
+        {
+          "name": "broadbandinternet"
+        },
+        {
+          "name": "washingmachine"
+        },
+        {
+          "name": "balconygarden"
+        },
+        {
+          "name": "garage"
+        },
+        {
+          "name": "lift"
+        },
+        {
+          "name": "view"
+        },
+        {
+          "name": "parkingspace"
+        }
+      ],
+      "is_furnished": false,
+      "is_temporary": false,
+      "is_selling_furniture": false,
+      "show_exact_address": true,
+      "zipcode": 3007,
+      "city": "Bern",
+      "public_address": "Sandrainstrasse 6, 3007 Bern",
+      "latitude": 46.9406765,
+      "longitude": 7.4406597,
+      "year_built": null,
+      "moving_date_type": "dat",
+      "moving_date": "2019-12-01",
+      "video_url": "",
+      "tour_url": "",
+      "website_url": "",
+      "cover_image": {
+        "pk": 1704593,
+        "caption": "Wohnung",
+        "url": "/media/ff/2019/10/2cgay2w77gvm4yj8vocxad9bpgkntrh6xgtgqsbe4rzknw0weu.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/2cgay2w77gvm4yj8vocxad9bpgkntrh6xgtgqsbe4rzknw0weu.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/2cgay2w77gvm4yj8vocxad9bpgkntrh6xgtgqsbe4rzknw0weu.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/2cgay2w77gvm4yj8vocxad9bpgkntrh6xgtgqsbe4rzknw0weu.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 1400,
+        "height": 697
+      },
+      "images": [
+        {
+          "pk": 1704593,
+          "caption": "Wohnung",
+          "url": "/media/ff/2019/10/2cgay2w77gvm4yj8vocxad9bpgkntrh6xgtgqsbe4rzknw0weu.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/2cgay2w77gvm4yj8vocxad9bpgkntrh6xgtgqsbe4rzknw0weu.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/2cgay2w77gvm4yj8vocxad9bpgkntrh6xgtgqsbe4rzknw0weu.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/2cgay2w77gvm4yj8vocxad9bpgkntrh6xgtgqsbe4rzknw0weu.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 1400,
+          "height": 697
+        },
+        {
+          "pk": 1704594,
+          "caption": "Wohnung",
+          "url": "/media/ff/2019/10/698vwtrlartsvd3arundekit0f6tiy06vqped5xb9soui9kdj2.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/698vwtrlartsvd3arundekit0f6tiy06vqped5xb9soui9kdj2.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/698vwtrlartsvd3arundekit0f6tiy06vqped5xb9soui9kdj2.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/698vwtrlartsvd3arundekit0f6tiy06vqped5xb9soui9kdj2.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 1400,
+          "height": 756
+        },
+        {
+          "pk": 1704598,
+          "caption": "Wohnung mit Aussicht",
+          "url": "/media/ff/2019/10/sd1o1om5qm0kgon2qlydn2pfj0p48uqyz0unuiuit3wy9jdmy0.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/sd1o1om5qm0kgon2qlydn2pfj0p48uqyz0unuiuit3wy9jdmy0.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/sd1o1om5qm0kgon2qlydn2pfj0p48uqyz0unuiuit3wy9jdmy0.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/sd1o1om5qm0kgon2qlydn2pfj0p48uqyz0unuiuit3wy9jdmy0.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 3,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704596,
+          "caption": "Wohnung",
+          "url": "/media/ff/2019/10/wojubol5unrodnjsi0jiw6fwwdgt9rej9btvv7zpyi194hyxgt.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/wojubol5unrodnjsi0jiw6fwwdgt9rej9btvv7zpyi194hyxgt.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/wojubol5unrodnjsi0jiw6fwwdgt9rej9btvv7zpyi194hyxgt.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/wojubol5unrodnjsi0jiw6fwwdgt9rej9btvv7zpyi194hyxgt.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 4,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704597,
+          "caption": "Küche",
+          "url": "/media/ff/2019/10/3xihx3bec8yu9ectjko9ajopy91147huytfur81p7yiwocczh8.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/3xihx3bec8yu9ectjko9ajopy91147huytfur81p7yiwocczh8.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/3xihx3bec8yu9ectjko9ajopy91147huytfur81p7yiwocczh8.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/3xihx3bec8yu9ectjko9ajopy91147huytfur81p7yiwocczh8.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 5,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704599,
+          "caption": "Zimmer",
+          "url": "/media/ff/2019/10/7zaptxe8vh0tisexp6ibwi65sl59l9a39uiykltscpg08lybd8.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/7zaptxe8vh0tisexp6ibwi65sl59l9a39uiykltscpg08lybd8.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/7zaptxe8vh0tisexp6ibwi65sl59l9a39uiykltscpg08lybd8.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/7zaptxe8vh0tisexp6ibwi65sl59l9a39uiykltscpg08lybd8.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 6,
+          "width": 1400,
+          "height": 720
+        },
+        {
+          "pk": 1704600,
+          "caption": "Zimmer",
+          "url": "/media/ff/2019/10/1hggt5xa3s9wpeap6xf310il7ibapnvno29u5ocowv66dohd7p.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/1hggt5xa3s9wpeap6xf310il7ibapnvno29u5ocowv66dohd7p.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/1hggt5xa3s9wpeap6xf310il7ibapnvno29u5ocowv66dohd7p.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/1hggt5xa3s9wpeap6xf310il7ibapnvno29u5ocowv66dohd7p.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 7,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704601,
+          "caption": "Bad",
+          "url": "/media/ff/2019/10/i5o73thq7wrwma0vbpoja8o86f0p1y11ur8lvetr9g5smvikjy.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/i5o73thq7wrwma0vbpoja8o86f0p1y11ur8lvetr9g5smvikjy.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/i5o73thq7wrwma0vbpoja8o86f0p1y11ur8lvetr9g5smvikjy.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/i5o73thq7wrwma0vbpoja8o86f0p1y11ur8lvetr9g5smvikjy.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 8,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704605,
+          "caption": "Gang",
+          "url": "/media/ff/2019/10/cxtgmldu4rpmqbrj1vijzlwttsvepbdiug1lury4v4clv9mzat.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/cxtgmldu4rpmqbrj1vijzlwttsvepbdiug1lury4v4clv9mzat.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/cxtgmldu4rpmqbrj1vijzlwttsvepbdiug1lury4v4clv9mzat.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/cxtgmldu4rpmqbrj1vijzlwttsvepbdiug1lury4v4clv9mzat.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 9,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704607,
+          "caption": "Reduit",
+          "url": "/media/ff/2019/10/el0xkvzwc8gdv67yk7ka473z5bkly97qvonrvjglnsrkh0crkm.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/el0xkvzwc8gdv67yk7ka473z5bkly97qvonrvjglnsrkh0crkm.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/el0xkvzwc8gdv67yk7ka473z5bkly97qvonrvjglnsrkh0crkm.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/el0xkvzwc8gdv67yk7ka473z5bkly97qvonrvjglnsrkh0crkm.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 10,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704602,
+          "caption": "Aussicht",
+          "url": "/media/ff/2019/10/spn36n1dxvgqyac1k6cnq89ovyil4hcr65o8vs5scpo8vohbr9.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/spn36n1dxvgqyac1k6cnq89ovyil4hcr65o8vs5scpo8vohbr9.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/spn36n1dxvgqyac1k6cnq89ovyil4hcr65o8vs5scpo8vohbr9.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/spn36n1dxvgqyac1k6cnq89ovyil4hcr65o8vs5scpo8vohbr9.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 11,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704603,
+          "caption": "Dachterrasse",
+          "url": "/media/ff/2019/10/kx0gxeio8etgzms8vzj3tcffbjf0bd70enmae9l0u2youec8k9.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/kx0gxeio8etgzms8vzj3tcffbjf0bd70enmae9l0u2youec8k9.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/kx0gxeio8etgzms8vzj3tcffbjf0bd70enmae9l0u2youec8k9.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/kx0gxeio8etgzms8vzj3tcffbjf0bd70enmae9l0u2youec8k9.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 12,
+          "width": 1400,
+          "height": 788
+        },
+        {
+          "pk": 1704604,
+          "caption": "Gebäude",
+          "url": "/media/ff/2019/10/91i6w1u56hrnkqt3tn800ej5ho4amtflx0mws5o51jij207zy4.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/91i6w1u56hrnkqt3tn800ej5ho4amtflx0mws5o51jij207zy4.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/91i6w1u56hrnkqt3tn800ej5ho4amtflx0mws5o51jij207zy4.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/91i6w1u56hrnkqt3tn800ej5ho4amtflx0mws5o51jij207zy4.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 13,
+          "width": 788,
+          "height": 1400
+        },
+        {
+          "pk": 1704606,
+          "caption": "Aussicht",
+          "url": "/media/ff/2019/10/qcfoyi2880dnrc2ipigr8dyei2v4c38gqzwvlvlkmdao3b3q8k.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/qcfoyi2880dnrc2ipigr8dyei2v4c38gqzwvlvlkmdao3b3q8k.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/qcfoyi2880dnrc2ipigr8dyei2v4c38gqzwvlvlkmdao3b3q8k.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/qcfoyi2880dnrc2ipigr8dyei2v4c38gqzwvlvlkmdao3b3q8k.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 14,
+          "width": 1400,
+          "height": 788
+        }
+      ],
+      "documents": [],
+      "organization": null,
+      "id": 128598,
+      "cover_image_url": "/media/thumbs/ff/2019/10/2cgay2w77gvm4yj8vocxad9bpgkntrh6xgtgqsbe4rzknw0weu.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "2 rooms apartment, 3007 Bern",
+      "rent_display": 1300,
+      "category": "APARTMENT",
+      "public_subtitle": "Sandrainstrasse 6, 3007 Bern - CHF 1,300 incl. utilities per month"
+    },
+    {
+      "pk": 128596,
+      "slug": "1041-bottens",
+      "url": "/en/flat/1041-bottens/128596/",
+      "short_url": "/128596/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "SALE",
+      "object_category": "APARTMENT",
+      "object_type": "ATTIC_FLAT",
+      "ref_property": "",
+      "ref_house": "",
+      "ref_object": "2KEL-5GYQ",
+      "price_display": 660000,
+      "price_display_type": "TOTAL",
+      "price_unit": "sell",
+      "rent_net": null,
+      "rent_charges": null,
+      "rent_gross": null,
+      "short_title": "4 ½ rooms attic flat",
+      "public_title": "1041 Bottens - CHF 660,000",
+      "rent_title": "Buy a 4 ½ rooms attic flat in Bottens",
+      "description_title": "Proche des commodités, magnifique appartement de 140 m2 au dernier étage avec grand balcon",
+      "description": "Très joli appartement de 140.4m2 total situé au dernier étage sans ascenseur d'une jolie petite ppe de 6 appartements, bénéficie d'une situation idéale au coeur du village de Bottens.\nLa PPE est au calme mais proche de toutes les commodités.\n?\nIl se compose d'un salon donnant sur le grand balcon, un coin repas et une jolie cuisine ouverte et moderne. 3 chambres, une salle de douche et une salle de bain pouvant acqueillir des machines à laver offriront à toute la famille des beaux espaces.\n1 cave et un grand grenier de 100m2.\n2 places de parc à 10'000.- la place sont à ajouter.\n?\nBottens est un joli village qui possède tout ce qui est nécessaire à la vie moderne et est situé au sud du Gros-de-Vaud, entre Talent et Jorat. Bottens dispose d'une situation privilégiée au carrefour entre ville et campagne, il est aisément accessible par les transports publics depuis Lausanne par la ligne TL 60 Lausanne - Froideville.\nLausanne est rejoint en moins de 10 minutes en voiture.",
+      "livingspace": 140,
+      "number_of_rooms": "4.5",
+      "floor": 2,
+      "attributes": [
+        {
+          "name": "parkingspace"
+        },
+        {
+          "name": "fireplace"
+        },
+        {
+          "name": "balconygarden"
+        },
+        {
+          "name": "view"
+        }
+      ],
+      "is_furnished": false,
+      "is_temporary": false,
+      "is_selling_furniture": false,
+      "show_exact_address": true,
+      "zipcode": 1041,
+      "city": "Bottens",
+      "public_address": "1041 Bottens",
+      "latitude": 46.6169770622706,
+      "longitude": 6.66027624531316,
+      "year_built": 1864,
+      "moving_date_type": "imm",
+      "moving_date": null,
+      "video_url": null,
+      "tour_url": null,
+      "website_url": null,
+      "cover_image": {
+        "pk": 1704577,
+        "caption": "",
+        "url": "/media/ff/2019/10/nqouqfw2yrhexonho8d2kcxsqwqsmeidq2t2tx7lofloykhiik.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/nqouqfw2yrhexonho8d2kcxsqwqsmeidq2t2tx7lofloykhiik.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/nqouqfw2yrhexonho8d2kcxsqwqsmeidq2t2tx7lofloykhiik.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/nqouqfw2yrhexonho8d2kcxsqwqsmeidq2t2tx7lofloykhiik.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 1200,
+        "height": 800
+      },
+      "images": [
+        {
+          "pk": 1704577,
+          "caption": "",
+          "url": "/media/ff/2019/10/nqouqfw2yrhexonho8d2kcxsqwqsmeidq2t2tx7lofloykhiik.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/nqouqfw2yrhexonho8d2kcxsqwqsmeidq2t2tx7lofloykhiik.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/nqouqfw2yrhexonho8d2kcxsqwqsmeidq2t2tx7lofloykhiik.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/nqouqfw2yrhexonho8d2kcxsqwqsmeidq2t2tx7lofloykhiik.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "pk": 1704578,
+          "caption": "",
+          "url": "/media/ff/2019/10/90b06b03jvvxkxbabtfdddvrttfzebtqkqrfo4g5ccvua6s9zf.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/90b06b03jvvxkxbabtfdddvrttfzebtqkqrfo4g5ccvua6s9zf.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/90b06b03jvvxkxbabtfdddvrttfzebtqkqrfo4g5ccvua6s9zf.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/90b06b03jvvxkxbabtfdddvrttfzebtqkqrfo4g5ccvua6s9zf.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "pk": 1704579,
+          "caption": "",
+          "url": "/media/ff/2019/10/2fbkm38jt2f27aejgbyt1mvf8m0eijs0f50l6h2duvxhtiy0bb.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/2fbkm38jt2f27aejgbyt1mvf8m0eijs0f50l6h2duvxhtiy0bb.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/2fbkm38jt2f27aejgbyt1mvf8m0eijs0f50l6h2duvxhtiy0bb.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/2fbkm38jt2f27aejgbyt1mvf8m0eijs0f50l6h2duvxhtiy0bb.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 3,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "pk": 1704580,
+          "caption": "",
+          "url": "/media/ff/2019/10/hx9gy61f24bcopfg4hqzmhzcimnv4gxvqgvqosr7vys033ct9r.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/hx9gy61f24bcopfg4hqzmhzcimnv4gxvqgvqosr7vys033ct9r.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/hx9gy61f24bcopfg4hqzmhzcimnv4gxvqgvqosr7vys033ct9r.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/hx9gy61f24bcopfg4hqzmhzcimnv4gxvqgvqosr7vys033ct9r.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 4,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "pk": 1704581,
+          "caption": "",
+          "url": "/media/ff/2019/10/cjatm1rp8q56z2b8r006nruo65qkkk5w1g01ljczpnux11k8sm.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/cjatm1rp8q56z2b8r006nruo65qkkk5w1g01ljczpnux11k8sm.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/cjatm1rp8q56z2b8r006nruo65qkkk5w1g01ljczpnux11k8sm.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/cjatm1rp8q56z2b8r006nruo65qkkk5w1g01ljczpnux11k8sm.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 5,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "pk": 1704582,
+          "caption": "",
+          "url": "/media/ff/2019/10/w91vhrhj592ltojukq0bsmrnvpnrzu5clivgahhnow68v24m36.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/w91vhrhj592ltojukq0bsmrnvpnrzu5clivgahhnow68v24m36.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/w91vhrhj592ltojukq0bsmrnvpnrzu5clivgahhnow68v24m36.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/w91vhrhj592ltojukq0bsmrnvpnrzu5clivgahhnow68v24m36.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 6,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "pk": 1704583,
+          "caption": "",
+          "url": "/media/ff/2019/10/vpk9kdxu3hmlc9o2t7ylsbt09t6m8bi125l8vnqrvcxevtsbrj.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/vpk9kdxu3hmlc9o2t7ylsbt09t6m8bi125l8vnqrvcxevtsbrj.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/vpk9kdxu3hmlc9o2t7ylsbt09t6m8bi125l8vnqrvcxevtsbrj.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/vpk9kdxu3hmlc9o2t7ylsbt09t6m8bi125l8vnqrvcxevtsbrj.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 7,
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "pk": 1704584,
+          "caption": "",
+          "url": "/media/ff/2019/10/78w82a4ni8ce4bt9my0hn9jcceo608wbqxv4n9b9pmiusinwp0.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/78w82a4ni8ce4bt9my0hn9jcceo608wbqxv4n9b9pmiusinwp0.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/78w82a4ni8ce4bt9my0hn9jcceo608wbqxv4n9b9pmiusinwp0.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/78w82a4ni8ce4bt9my0hn9jcceo608wbqxv4n9b9pmiusinwp0.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 8,
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "documents": [],
+      "organization": {
+        "name": "Real Advisor c/o AI Partners SA",
+        "logo": {
+          "url": "/media/thumbs/org/2019/06/9wkxerqj96hw99if3ewk00lkznaqthwsz9x8sfrqi2kl9o54vn.png.360x0_q85_upscale.png",
+          "url_org_logo_m": "/media/thumbs/org/2019/06/9wkxerqj96hw99if3ewk00lkznaqthwsz9x8sfrqi2kl9o54vn.png.360x0_q85_upscale.png"
+        }
+      },
+      "id": 128596,
+      "cover_image_url": "/media/thumbs/ff/2019/10/nqouqfw2yrhexonho8d2kcxsqwqsmeidq2t2tx7lofloykhiik.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "4 ½ rooms attic flat, 1041 Bottens",
+      "rent_display": 660000,
+      "category": "APARTMENT",
+      "public_subtitle": "1041 Bottens - CHF 660,000"
+    },
+    {
+      "pk": 128595,
+      "slug": "8700-kusnacht",
+      "url": "/en/flat/8700-kusnacht/128595/",
+      "short_url": "/128595/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "RENT",
+      "object_category": "SHARED",
+      "object_type": "SHARED_FLAT",
+      "ref_property": "",
+      "ref_house": "",
+      "ref_object": "",
+      "price_display": 850,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "rent_net": null,
+      "rent_charges": null,
+      "rent_gross": 850,
+      "short_title": "Room in a shared flat",
+      "public_title": "8700 Küsnacht - CHF 850 incl. utilities per month",
+      "rent_title": "Rent a Room in a shared flat in Küsnacht",
+      "description_title": "Wochenaufenthalter/in gesucht von Mo-Fr",
+      "description": "In meiner tollen 3.5 Zimmer Gartenwohnung hätte ich ein Zimmer frei für Wochenaufenthalter von Mo bis Do. Das Zimmer ist unmöbiliert. Die Bushaltestelle ist 5 min zu Fuss erreichbar. Anschlüsse direkt in die Stadt. Wichtig ist mir Ordnung und Sauberkeit. Falls du Interesse hast freue ich mich über ein paar Zeilen über dich.",
+      "livingspace": 13,
+      "number_of_rooms": "1.0",
+      "floor": 0,
+      "attributes": [
+        {
+          "name": "parquetflooring"
+        },
+        {
+          "name": "stonefloor"
+        },
+        {
+          "name": "dishwasher"
+        },
+        {
+          "name": "tumbler"
+        },
+        {
+          "name": "washingmachine"
+        },
+        {
+          "name": "broadbandinternet"
+        },
+        {
+          "name": "balconygarden"
+        },
+        {
+          "name": "parkingspace"
+        }
+      ],
+      "is_furnished": false,
+      "is_temporary": false,
+      "is_selling_furniture": false,
+      "show_exact_address": false,
+      "zipcode": 8700,
+      "city": "Küsnacht",
+      "public_address": "8700 Küsnacht",
+      "latitude": 47.3183544461497,
+      "longitude": 8.59276182691925,
+      "year_built": null,
+      "moving_date_type": "agr",
+      "moving_date": null,
+      "video_url": "",
+      "tour_url": "",
+      "website_url": "",
+      "cover_image": {
+        "pk": 1704572,
+        "caption": "",
+        "url": "/media/ff/2019/10/oi72dhbzi4rkpxh6jo207hbojpzl55j4za5z8ep1o33nku8j28.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/oi72dhbzi4rkpxh6jo207hbojpzl55j4za5z8ep1o33nku8j28.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/oi72dhbzi4rkpxh6jo207hbojpzl55j4za5z8ep1o33nku8j28.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/oi72dhbzi4rkpxh6jo207hbojpzl55j4za5z8ep1o33nku8j28.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 1400,
+        "height": 788
+      },
+      "images": [
+        {
+          "pk": 1704572,
+          "caption": "",
+          "url": "/media/ff/2019/10/oi72dhbzi4rkpxh6jo207hbojpzl55j4za5z8ep1o33nku8j28.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/oi72dhbzi4rkpxh6jo207hbojpzl55j4za5z8ep1o33nku8j28.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/oi72dhbzi4rkpxh6jo207hbojpzl55j4za5z8ep1o33nku8j28.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/oi72dhbzi4rkpxh6jo207hbojpzl55j4za5z8ep1o33nku8j28.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 1400,
+          "height": 788
+        },
+        {
+          "pk": 1704573,
+          "caption": "",
+          "url": "/media/ff/2019/10/o6slkjheggq9fkuhk3n5sfxt55bcq4pr9srvxh0x7v06mioj09.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/o6slkjheggq9fkuhk3n5sfxt55bcq4pr9srvxh0x7v06mioj09.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/o6slkjheggq9fkuhk3n5sfxt55bcq4pr9srvxh0x7v06mioj09.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/o6slkjheggq9fkuhk3n5sfxt55bcq4pr9srvxh0x7v06mioj09.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704574,
+          "caption": "",
+          "url": "/media/ff/2019/10/00yo7n6nyorpygw5aq4gp4di8qyxi56hzn64503l6qu41wauob.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/00yo7n6nyorpygw5aq4gp4di8qyxi56hzn64503l6qu41wauob.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/00yo7n6nyorpygw5aq4gp4di8qyxi56hzn64503l6qu41wauob.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/00yo7n6nyorpygw5aq4gp4di8qyxi56hzn64503l6qu41wauob.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 3,
+          "width": 788,
+          "height": 1400
+        },
+        {
+          "pk": 1704575,
+          "caption": "",
+          "url": "/media/ff/2019/10/0q6i3r7wcd7em2ket3d45hzctdmhyc1ayok75b1jdqwdzid36m.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/0q6i3r7wcd7em2ket3d45hzctdmhyc1ayok75b1jdqwdzid36m.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/0q6i3r7wcd7em2ket3d45hzctdmhyc1ayok75b1jdqwdzid36m.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/0q6i3r7wcd7em2ket3d45hzctdmhyc1ayok75b1jdqwdzid36m.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 4,
+          "width": 1400,
+          "height": 788
+        },
+        {
+          "pk": 1704576,
+          "caption": "",
+          "url": "/media/ff/2019/10/urqca2l73o0u0rqlphnkquexctq1nz2hnupgseni0tya06u76f.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/urqca2l73o0u0rqlphnkquexctq1nz2hnupgseni0tya06u76f.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/urqca2l73o0u0rqlphnkquexctq1nz2hnupgseni0tya06u76f.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/urqca2l73o0u0rqlphnkquexctq1nz2hnupgseni0tya06u76f.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 5,
+          "width": 1050,
+          "height": 1400
+        }
+      ],
+      "documents": [],
+      "organization": null,
+      "id": 128595,
+      "cover_image_url": "/media/thumbs/ff/2019/10/oi72dhbzi4rkpxh6jo207hbojpzl55j4za5z8ep1o33nku8j28.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "Room in a shared flat, 8700 Küsnacht",
+      "rent_display": 850,
+      "category": "SHARED",
+      "public_subtitle": "8700 Küsnacht - CHF 850 incl. utilities per month"
+    },
+    {
+      "pk": 128594,
+      "slug": "ilgenstrasse-60-9000-stgallen",
+      "url": "/en/flat/ilgenstrasse-60-9000-stgallen/128594/",
+      "short_url": "/128594/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "RENT",
+      "object_category": "SHARED",
+      "object_type": "SHARED_FLAT",
+      "ref_property": "",
+      "ref_house": "",
+      "ref_object": "",
+      "price_display": 850,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "rent_net": null,
+      "rent_charges": null,
+      "rent_gross": 850,
+      "short_title": "Room in a shared flat",
+      "public_title": "Ilgenstrasse 60, 9000 St.Gallen - CHF 850 incl. utilities per month",
+      "rent_title": "Rent a Room in a shared flat in St.Gallen",
+      "description_title": "charmante, grosszügige Maisonettewohnung",
+      "description": "Das Zimmer ist nicht nur ein Zimmer, sondern der obere Stock in einer wohnlichen 5.5-Zimmer Maisonette Wohnung. Neben einem Zimmer welches circa 16 m2 umfasst, beinhaltet dein zukünftiges Reich ebenfalls ein grosszügiger Vorbereich (ca. 15m2), welcher sich ideal als Büro, Bibliothek, Yogabereich oder Fernsehecke eignet. Ebenfalls besitzt du eine eigene Dusche mit WC. Von deiner Etage führt der Weg über einen Dachausstieg auf eine sonnige Dachterrasse mit wunderschöner Aussicht, welche nur von dieser Wohnung erschlossen ist.\n\n Wir suchen eine charmante Person ab 25, welche ein gesundes Mass an Toleranz besitzt und sich auch gerne in das WG-Leben einfügt. Du solltest tierfreundlich sein, da die WG über einen \"Wachhund\" namens Lua verfügt.(keine Angst, sehr lieb, auch wenn manchmal ein bisschen wild).\n\n\nWir sind...\nBeni (34), welcher die WG per Ende November doch auch mit einer Träne im Auge verlässt und durch eine geeignete Person ersetzt werden soll. Inés (30), Oberstufenlehrerin und Hundebesitzerin Amélie (23), Studentin aus Frankreich, die an der HSG ihren Master macht. Lua (7), professionelle aber nicht sehr erfolgreiche Katzenjägerin. Wir sind eine Wohngemeinschaft, in welcher das Leben sehr unkompliziert ist. Man freut sich über gemeinsame Gespräche in der Küche oder auch mal einen faulen Abend auf der Couch vor dem Fernseher. Natürlich wird jedem seine Ruhe gegönnt, wenn man sich vom Alltagsstress in seinen Zimmer zurückziehen möchte. Wir freuen uns auf eure Anfragen und sind für Fragen gerne offen. Cheers...",
+      "livingspace": 40,
+      "number_of_rooms": "1.0",
+      "floor": 4,
+      "attributes": [
+        {
+          "name": "balconygarden"
+        },
+        {
+          "name": "lift"
+        },
+        {
+          "name": "view"
+        },
+        {
+          "name": "parquetflooring"
+        },
+        {
+          "name": "washingmachine"
+        },
+        {
+          "name": "dishwasher"
+        },
+        {
+          "name": "tumbler"
+        },
+        {
+          "name": "cable"
+        }
+      ],
+      "is_furnished": false,
+      "is_temporary": false,
+      "is_selling_furniture": false,
+      "show_exact_address": true,
+      "zipcode": 9000,
+      "city": "St.Gallen",
+      "public_address": "Ilgenstrasse 60, 9000 St.Gallen",
+      "latitude": 47.4159892,
+      "longitude": 9.3563662,
+      "year_built": null,
+      "moving_date_type": "dat",
+      "moving_date": "2019-12-01",
+      "video_url": "",
+      "tour_url": "",
+      "website_url": "",
+      "cover_image": {
+        "pk": 1704565,
+        "caption": "Vorbereich",
+        "url": "/media/ff/2019/10/0hy3ffva5clp11kekghntkeflwifc4g1b9pivnn3h22a2wlhmp.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/0hy3ffva5clp11kekghntkeflwifc4g1b9pivnn3h22a2wlhmp.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/0hy3ffva5clp11kekghntkeflwifc4g1b9pivnn3h22a2wlhmp.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/0hy3ffva5clp11kekghntkeflwifc4g1b9pivnn3h22a2wlhmp.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 1200,
+        "height": 900
+      },
+      "images": [
+        {
+          "pk": 1704565,
+          "caption": "Vorbereich",
+          "url": "/media/ff/2019/10/0hy3ffva5clp11kekghntkeflwifc4g1b9pivnn3h22a2wlhmp.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/0hy3ffva5clp11kekghntkeflwifc4g1b9pivnn3h22a2wlhmp.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/0hy3ffva5clp11kekghntkeflwifc4g1b9pivnn3h22a2wlhmp.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/0hy3ffva5clp11kekghntkeflwifc4g1b9pivnn3h22a2wlhmp.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 1200,
+          "height": 900
+        },
+        {
+          "pk": 1704566,
+          "caption": "Wohn- und Esszimmer",
+          "url": "/media/ff/2019/10/j7m1bigjyavrgizz8q9lrn4b001ydvvhakzzz1f1p74ju4h6ao.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/j7m1bigjyavrgizz8q9lrn4b001ydvvhakzzz1f1p74ju4h6ao.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/j7m1bigjyavrgizz8q9lrn4b001ydvvhakzzz1f1p74ju4h6ao.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/j7m1bigjyavrgizz8q9lrn4b001ydvvhakzzz1f1p74ju4h6ao.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 1200,
+          "height": 900
+        },
+        {
+          "pk": 1704567,
+          "caption": "Blick von Terrasse",
+          "url": "/media/ff/2019/10/rkvkzufundjy22rh5rqsxyvrzdm3yert99nir0ndjlfa9yj1qi.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/rkvkzufundjy22rh5rqsxyvrzdm3yert99nir0ndjlfa9yj1qi.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/rkvkzufundjy22rh5rqsxyvrzdm3yert99nir0ndjlfa9yj1qi.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/rkvkzufundjy22rh5rqsxyvrzdm3yert99nir0ndjlfa9yj1qi.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 3,
+          "width": 1200,
+          "height": 900
+        }
+      ],
+      "documents": [],
+      "organization": null,
+      "id": 128594,
+      "cover_image_url": "/media/thumbs/ff/2019/10/0hy3ffva5clp11kekghntkeflwifc4g1b9pivnn3h22a2wlhmp.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "Room in a shared flat, 9000 St.Gallen",
+      "rent_display": 850,
+      "category": "SHARED",
+      "public_subtitle": "Ilgenstrasse 60, 9000 St.Gallen - CHF 850 incl. utilities per month"
+    },
+    {
+      "pk": 128590,
+      "slug": "unterdorfstrasse-63-8105-watt",
+      "url": "/en/flat/unterdorfstrasse-63-8105-watt/128590/",
+      "short_url": "/128590/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "RENT",
+      "object_category": "APARTMENT",
+      "object_type": "APARTMENT",
+      "ref_property": "",
+      "ref_house": "",
+      "ref_object": "",
+      "price_display": 955,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "rent_net": null,
+      "rent_charges": 115,
+      "rent_gross": 955,
+      "short_title": "1 ½ rooms apartment",
+      "public_title": "Unterdorfstrasse 63, 8105 Watt - CHF 955 incl. utilities per month",
+      "rent_title": "Rent a 1 ½ rooms apartment in Watt",
+      "description_title": "1.5 Zimmerwohnung",
+      "description": "Nachmieter für 1.5 Zimmerwohnung per 1.11.2019 gesucht. Die Wohnung ist sehr hell und offen. Sie besitzt einen Balkon. Bei fragen stehe ich Ihnen gerne zur Verfügung.",
+      "livingspace": 34,
+      "number_of_rooms": "1.5",
+      "floor": 3,
+      "attributes": [
+        {
+          "name": "cable"
+        },
+        {
+          "name": "parquetflooring"
+        },
+        {
+          "name": "accessiblewithwheelchair"
+        },
+        {
+          "name": "balconygarden"
+        }
+      ],
+      "is_furnished": false,
+      "is_temporary": false,
+      "is_selling_furniture": false,
+      "show_exact_address": true,
+      "zipcode": 8105,
+      "city": "Watt",
+      "public_address": "Unterdorfstrasse 63, 8105 Watt",
+      "latitude": 47.4433169,
+      "longitude": 8.477234,
+      "year_built": null,
+      "moving_date_type": "dat",
+      "moving_date": "2019-11-01",
+      "video_url": "",
+      "tour_url": "",
+      "website_url": "",
+      "cover_image": {
+        "pk": 1704558,
+        "caption": "",
+        "url": "/media/ff/2019/10/54d7wsgp2il02goclrvk97dvzswpimx6jl4mqrcajsvewaqz5b.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/54d7wsgp2il02goclrvk97dvzswpimx6jl4mqrcajsvewaqz5b.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/54d7wsgp2il02goclrvk97dvzswpimx6jl4mqrcajsvewaqz5b.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/54d7wsgp2il02goclrvk97dvzswpimx6jl4mqrcajsvewaqz5b.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 1050,
+        "height": 1400
+      },
+      "images": [
+        {
+          "pk": 1704558,
+          "caption": "",
+          "url": "/media/ff/2019/10/54d7wsgp2il02goclrvk97dvzswpimx6jl4mqrcajsvewaqz5b.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/54d7wsgp2il02goclrvk97dvzswpimx6jl4mqrcajsvewaqz5b.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/54d7wsgp2il02goclrvk97dvzswpimx6jl4mqrcajsvewaqz5b.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/54d7wsgp2il02goclrvk97dvzswpimx6jl4mqrcajsvewaqz5b.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704557,
+          "caption": "",
+          "url": "/media/ff/2019/10/ai6zsxdco0bwh7j9ggq4qvuzp4qb6prajtdvk7oa68gopn79z1.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/ai6zsxdco0bwh7j9ggq4qvuzp4qb6prajtdvk7oa68gopn79z1.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/ai6zsxdco0bwh7j9ggq4qvuzp4qb6prajtdvk7oa68gopn79z1.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/ai6zsxdco0bwh7j9ggq4qvuzp4qb6prajtdvk7oa68gopn79z1.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704560,
+          "caption": "",
+          "url": "/media/ff/2019/10/d5ieu1v6gdpiqc34yc7q73g8bj8nvivsc2tk1qebubpwji2va2.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/d5ieu1v6gdpiqc34yc7q73g8bj8nvivsc2tk1qebubpwji2va2.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/d5ieu1v6gdpiqc34yc7q73g8bj8nvivsc2tk1qebubpwji2va2.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/d5ieu1v6gdpiqc34yc7q73g8bj8nvivsc2tk1qebubpwji2va2.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 3,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704559,
+          "caption": "",
+          "url": "/media/ff/2019/10/ih1dgbg53pd9xdsh9358y8ktnyp8kfcrm9vu4og4vih074gt50.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/ih1dgbg53pd9xdsh9358y8ktnyp8kfcrm9vu4og4vih074gt50.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/ih1dgbg53pd9xdsh9358y8ktnyp8kfcrm9vu4og4vih074gt50.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/ih1dgbg53pd9xdsh9358y8ktnyp8kfcrm9vu4og4vih074gt50.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 4,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704561,
+          "caption": "",
+          "url": "/media/ff/2019/10/kj2hscxpusfxlwt5mjn44ldbz89802v72k98fpc4i6r46s88bi.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/kj2hscxpusfxlwt5mjn44ldbz89802v72k98fpc4i6r46s88bi.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/kj2hscxpusfxlwt5mjn44ldbz89802v72k98fpc4i6r46s88bi.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/kj2hscxpusfxlwt5mjn44ldbz89802v72k98fpc4i6r46s88bi.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 5,
+          "width": 1050,
+          "height": 1400
+        }
+      ],
+      "documents": [],
+      "organization": null,
+      "id": 128590,
+      "cover_image_url": "/media/thumbs/ff/2019/10/54d7wsgp2il02goclrvk97dvzswpimx6jl4mqrcajsvewaqz5b.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "1 ½ rooms apartment, 8105 Watt",
+      "rent_display": 955,
+      "category": "APARTMENT",
+      "public_subtitle": "Unterdorfstrasse 63, 8105 Watt - CHF 955 incl. utilities per month"
+    },
+    {
+      "pk": 128589,
+      "slug": "waldlistrasse-8032-zurich",
+      "url": "/en/flat/waldlistrasse-8032-zurich/128589/",
+      "short_url": "/128589/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "RENT",
+      "object_category": "APARTMENT",
+      "object_type": "APARTMENT",
+      "ref_property": "",
+      "ref_house": "",
+      "ref_object": "",
+      "price_display": 4178,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "rent_net": null,
+      "rent_charges": 500,
+      "rent_gross": 4178,
+      "short_title": "4 rooms apartment",
+      "public_title": "Wäldlistrasse, 8032 Zürich - CHF 4,178 incl. utilities per month",
+      "rent_title": "Rent a 4 rooms apartment in Zürich",
+      "description_title": "Wunderschöne Altbau-Wohnung an hervorragender Lage",
+      "description": "Schweren Herzens werden wir Ende Januar 2020 dieses Schmuckstück verlassen. Die wunderschöne Wohnung mit Parkettboden in allen Wohnräumen und Steinböden in Küche und Bad bietet mehr als ausreichend Platz. Neben dem geräumigen Wohnzimmer mit angrenzendem Essplatz (Schiebetüre zum Wohnzimmer) bietet die Wohnung eine grosse und moderne Küche (Induktionsherd, Backofen, 2. Backofen inkl. Mikrowelle, grosser Kühlschrank, separater Tiefkühler) inkl. Durchreiche ins Wohnzimmer, ein modernes Badezimmer mit Badewanne, separates WC, zwei grosse Schlafzimmer sowie einen kleinen Raum für Garderobe und Schuhschränke. Darüberhinaus verfügt die Wohnung über einen grossen Balkon inkl. Sonnenschutz.\nDie bevorzugte Lage am Römerhof bietet zwei Tramlinien mit welchen man innert Minuten ins Zentrum kommt (T3 Richtung HB sowie T8 Richtung Stadelhofen). Ein Coop, Denner, Reinigung, Post, UBS, Bäckerei sowie diverse Schulen und Kinderspielplätze sind in wenigen Minuten zu Fuss zu erreichen.\n\nEin überdachter Einstellplatz kann für CHF 182,- hinzugemietet werden.",
+      "livingspace": 110,
+      "number_of_rooms": "4.0",
+      "floor": 1,
+      "attributes": [
+        {
+          "name": "dishwasher"
+        },
+        {
+          "name": "parquetflooring"
+        },
+        {
+          "name": "washingmachine"
+        },
+        {
+          "name": "stonefloor"
+        },
+        {
+          "name": "garage"
+        },
+        {
+          "name": "view"
+        },
+        {
+          "name": "parkingspace"
+        },
+        {
+          "name": "balconygarden"
+        }
+      ],
+      "is_furnished": false,
+      "is_temporary": false,
+      "is_selling_furniture": false,
+      "show_exact_address": true,
+      "zipcode": 8032,
+      "city": "Zürich",
+      "public_address": "Wäldlistrasse, 8032 Zürich",
+      "latitude": 47.3685697,
+      "longitude": 8.5593468,
+      "year_built": null,
+      "moving_date_type": "dat",
+      "moving_date": "2020-02-01",
+      "video_url": "",
+      "tour_url": "",
+      "website_url": "",
+      "cover_image": {
+        "pk": 1704545,
+        "caption": "",
+        "url": "/media/ff/2019/10/sh80xvxydhkat02vxw7k6i7tf2pzaviwvjtp2jcp5wpxsdnlvo.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/sh80xvxydhkat02vxw7k6i7tf2pzaviwvjtp2jcp5wpxsdnlvo.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/sh80xvxydhkat02vxw7k6i7tf2pzaviwvjtp2jcp5wpxsdnlvo.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/sh80xvxydhkat02vxw7k6i7tf2pzaviwvjtp2jcp5wpxsdnlvo.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 1050,
+        "height": 1400
+      },
+      "images": [
+        {
+          "pk": 1704545,
+          "caption": "",
+          "url": "/media/ff/2019/10/sh80xvxydhkat02vxw7k6i7tf2pzaviwvjtp2jcp5wpxsdnlvo.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/sh80xvxydhkat02vxw7k6i7tf2pzaviwvjtp2jcp5wpxsdnlvo.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/sh80xvxydhkat02vxw7k6i7tf2pzaviwvjtp2jcp5wpxsdnlvo.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/sh80xvxydhkat02vxw7k6i7tf2pzaviwvjtp2jcp5wpxsdnlvo.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704546,
+          "caption": "",
+          "url": "/media/ff/2019/10/6yiz1lhk43x5k7qyr16r35w7t52ar1gdrg6afc0ew6cg07z8fr.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/6yiz1lhk43x5k7qyr16r35w7t52ar1gdrg6afc0ew6cg07z8fr.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/6yiz1lhk43x5k7qyr16r35w7t52ar1gdrg6afc0ew6cg07z8fr.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/6yiz1lhk43x5k7qyr16r35w7t52ar1gdrg6afc0ew6cg07z8fr.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704547,
+          "caption": "",
+          "url": "/media/ff/2019/10/uois874phgoszhpgyi1fyg4suvo0n7fbouwjnl8oe4cshm32ad.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/uois874phgoszhpgyi1fyg4suvo0n7fbouwjnl8oe4cshm32ad.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/uois874phgoszhpgyi1fyg4suvo0n7fbouwjnl8oe4cshm32ad.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/uois874phgoszhpgyi1fyg4suvo0n7fbouwjnl8oe4cshm32ad.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 3,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704549,
+          "caption": "",
+          "url": "/media/ff/2019/10/vry59y9qvizml36b6lgj5t1u72rn3ropj5082b3bviet09yvh2.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/vry59y9qvizml36b6lgj5t1u72rn3ropj5082b3bviet09yvh2.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/vry59y9qvizml36b6lgj5t1u72rn3ropj5082b3bviet09yvh2.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/vry59y9qvizml36b6lgj5t1u72rn3ropj5082b3bviet09yvh2.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 4,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704548,
+          "caption": "",
+          "url": "/media/ff/2019/10/jiamwl8tqrffn8gdw0gi4yv157cab7gmvthupd20u0i3ym7lo2.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/jiamwl8tqrffn8gdw0gi4yv157cab7gmvthupd20u0i3ym7lo2.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/jiamwl8tqrffn8gdw0gi4yv157cab7gmvthupd20u0i3ym7lo2.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/jiamwl8tqrffn8gdw0gi4yv157cab7gmvthupd20u0i3ym7lo2.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 5,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704550,
+          "caption": "",
+          "url": "/media/ff/2019/10/lo6szqcndb3vwhq6yfp70dbfxgpvywnaplz2pwvaraldevdn7o.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/lo6szqcndb3vwhq6yfp70dbfxgpvywnaplz2pwvaraldevdn7o.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/lo6szqcndb3vwhq6yfp70dbfxgpvywnaplz2pwvaraldevdn7o.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/lo6szqcndb3vwhq6yfp70dbfxgpvywnaplz2pwvaraldevdn7o.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 6,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704551,
+          "caption": "",
+          "url": "/media/ff/2019/10/gqornzyp413dy0wf5kc4yotgjsr2jc5wkwq5aezaci4ecs0qrd.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/gqornzyp413dy0wf5kc4yotgjsr2jc5wkwq5aezaci4ecs0qrd.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/gqornzyp413dy0wf5kc4yotgjsr2jc5wkwq5aezaci4ecs0qrd.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/gqornzyp413dy0wf5kc4yotgjsr2jc5wkwq5aezaci4ecs0qrd.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 7,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704552,
+          "caption": "",
+          "url": "/media/ff/2019/10/c4klk40p8j2wtfn8kv73ijg87ltogo435ae8j1jt1s6unn4np7.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/c4klk40p8j2wtfn8kv73ijg87ltogo435ae8j1jt1s6unn4np7.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/c4klk40p8j2wtfn8kv73ijg87ltogo435ae8j1jt1s6unn4np7.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/c4klk40p8j2wtfn8kv73ijg87ltogo435ae8j1jt1s6unn4np7.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 8,
+          "width": 1050,
+          "height": 1400
+        }
+      ],
+      "documents": [],
+      "organization": null,
+      "id": 128589,
+      "cover_image_url": "/media/thumbs/ff/2019/10/sh80xvxydhkat02vxw7k6i7tf2pzaviwvjtp2jcp5wpxsdnlvo.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "4 rooms apartment, 8032 Zürich",
+      "rent_display": 4178,
+      "category": "APARTMENT",
+      "public_subtitle": "Wäldlistrasse, 8032 Zürich - CHF 4,178 incl. utilities per month"
+    },
+    {
+      "pk": 128588,
+      "slug": "6247-schotz",
+      "url": "/en/flat/6247-schotz/128588/",
+      "short_url": "/128588/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "RENT",
+      "object_category": "APARTMENT",
+      "object_type": "APARTMENT",
+      "ref_property": "",
+      "ref_house": "",
+      "ref_object": "",
+      "price_display": 800,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "rent_net": null,
+      "rent_charges": null,
+      "rent_gross": 800,
+      "short_title": "2 ½ rooms apartment",
+      "public_title": "6247 Schötz - CHF 800 incl. utilities per month",
+      "rent_title": "Rent a 2 ½ rooms apartment in Schötz",
+      "description_title": "schöne 2.5 Zimmer Dachwohung in Einfamilienhaus",
+      "description": "Wir vermieten per sofort oder nach Vereinbarung eine schöne 2.5 Zimmerwohnung im Dachgeschoss. Die Wohnung liegt in einem schönen Einfamilienhausquartier.\nDie Wohnung verfügt über folgende Vorzüge\n\n- Laminatboden/Plattenboden\n- Idyllische Räume mit Schwedenofen\n- Küche mit Glaskeramikkochherd und Kühltruhe\n- Grosses Estrichabteil direkt oberhalb der Wohnung zur Mitnutzung\n- Wohnung befindet sich in einer ruhigen Lage.\n\nRäume\n\n- Wohn-/Esszimmer mit Schwedenofen\n- Schlafzimmer mit bestehendem Schrank\n- Badezimmer mit Lavabo, WC, Dusche\n- Estrichabteil oberhalb der Wohnung\n- Kleines Büro\n- Balkon\n\nWeitere Informationen\n\n- Keine WGs (1 Personenhaushalt)\n- Katzen und Hunde nicht erlaubt\n- Nichtraucher erwünscht\n\nMiete 800.- pro Monat, inkl. Nebenkosten\nEin Autoabstellplatz kann für CHF 50.00 pro Monat dazu gemietet werden.\n\nHaben Sie noch Fragen oder möchten Sie die Wohnung einmal besichtigen? So nehmen Sie mit uns Kontakt auf. Wir stehen Ihnen gerne zur Verfügung.",
+      "livingspace": 65,
+      "number_of_rooms": "2.5",
+      "floor": 3,
+      "attributes": [
+        {
+          "name": "washingmachine"
+        },
+        {
+          "name": "broadbandinternet"
+        },
+        {
+          "name": "parquetflooring"
+        },
+        {
+          "name": "cable"
+        },
+        {
+          "name": "fireplace"
+        },
+        {
+          "name": "balconygarden"
+        },
+        {
+          "name": "garage"
+        },
+        {
+          "name": "view"
+        }
+      ],
+      "is_furnished": false,
+      "is_temporary": false,
+      "is_selling_furniture": false,
+      "show_exact_address": false,
+      "zipcode": 6247,
+      "city": "Schötz",
+      "public_address": "6247 Schötz",
+      "latitude": 47.1661486071847,
+      "longitude": 7.98146979252101,
+      "year_built": 1990,
+      "moving_date_type": "imm",
+      "moving_date": null,
+      "video_url": "",
+      "tour_url": "",
+      "website_url": "",
+      "cover_image": {
+        "pk": 1704538,
+        "caption": "",
+        "url": "/media/ff/2019/10/cm65m06736d9qzp2uhgh9qca2aqaoq9aq2hrycsf4w3laur8az.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/cm65m06736d9qzp2uhgh9qca2aqaoq9aq2hrycsf4w3laur8az.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/cm65m06736d9qzp2uhgh9qca2aqaoq9aq2hrycsf4w3laur8az.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/cm65m06736d9qzp2uhgh9qca2aqaoq9aq2hrycsf4w3laur8az.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 1400,
+        "height": 1157
+      },
+      "images": [
+        {
+          "pk": 1704538,
+          "caption": "",
+          "url": "/media/ff/2019/10/cm65m06736d9qzp2uhgh9qca2aqaoq9aq2hrycsf4w3laur8az.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/cm65m06736d9qzp2uhgh9qca2aqaoq9aq2hrycsf4w3laur8az.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/cm65m06736d9qzp2uhgh9qca2aqaoq9aq2hrycsf4w3laur8az.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/cm65m06736d9qzp2uhgh9qca2aqaoq9aq2hrycsf4w3laur8az.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 1400,
+          "height": 1157
+        },
+        {
+          "pk": 1704540,
+          "caption": "",
+          "url": "/media/ff/2019/10/3mzsu2syn3wkyyhbqmkdlea14ppgf8avyhqkcfewff5cesbouj.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/3mzsu2syn3wkyyhbqmkdlea14ppgf8avyhqkcfewff5cesbouj.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/3mzsu2syn3wkyyhbqmkdlea14ppgf8avyhqkcfewff5cesbouj.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/3mzsu2syn3wkyyhbqmkdlea14ppgf8avyhqkcfewff5cesbouj.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704541,
+          "caption": "",
+          "url": "/media/ff/2019/10/1fvxm65taxiabw661b78427zwc35khrsiv3lezqd35mmbbnigj.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/1fvxm65taxiabw661b78427zwc35khrsiv3lezqd35mmbbnigj.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/1fvxm65taxiabw661b78427zwc35khrsiv3lezqd35mmbbnigj.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/1fvxm65taxiabw661b78427zwc35khrsiv3lezqd35mmbbnigj.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 3,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704542,
+          "caption": "",
+          "url": "/media/ff/2019/10/p627fh8kgn1pcxk9iazgeen1os32905w3m0rb77uuwuoxden1y.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/p627fh8kgn1pcxk9iazgeen1os32905w3m0rb77uuwuoxden1y.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/p627fh8kgn1pcxk9iazgeen1os32905w3m0rb77uuwuoxden1y.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/p627fh8kgn1pcxk9iazgeen1os32905w3m0rb77uuwuoxden1y.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 4,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704543,
+          "caption": "",
+          "url": "/media/ff/2019/10/s0d5lt7y5hgvtyxrungkvaefyuhutpz42u4lg4aoyj7f4vn02k.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/s0d5lt7y5hgvtyxrungkvaefyuhutpz42u4lg4aoyj7f4vn02k.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/s0d5lt7y5hgvtyxrungkvaefyuhutpz42u4lg4aoyj7f4vn02k.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/s0d5lt7y5hgvtyxrungkvaefyuhutpz42u4lg4aoyj7f4vn02k.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 5,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704544,
+          "caption": "",
+          "url": "/media/ff/2019/10/n84xep8lcm0q9vzkmgmhlphi8hokudmbnudrl8bpgn36oa5ymj.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/n84xep8lcm0q9vzkmgmhlphi8hokudmbnudrl8bpgn36oa5ymj.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/n84xep8lcm0q9vzkmgmhlphi8hokudmbnudrl8bpgn36oa5ymj.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/n84xep8lcm0q9vzkmgmhlphi8hokudmbnudrl8bpgn36oa5ymj.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 6,
+          "width": 1400,
+          "height": 1050
+        }
+      ],
+      "documents": [],
+      "organization": null,
+      "id": 128588,
+      "cover_image_url": "/media/thumbs/ff/2019/10/cm65m06736d9qzp2uhgh9qca2aqaoq9aq2hrycsf4w3laur8az.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "2 ½ rooms apartment, 6247 Schötz",
+      "rent_display": 800,
+      "category": "APARTMENT",
+      "public_subtitle": "6247 Schötz - CHF 800 incl. utilities per month"
+    },
+    {
+      "pk": 128582,
+      "slug": "rieterstrasse-48-8002-zurich",
+      "url": "/en/flat/rieterstrasse-48-8002-zurich/128582/",
+      "short_url": "/128582/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "RENT",
+      "object_category": "SHARED",
+      "object_type": "SHARED_FLAT",
+      "ref_property": "",
+      "ref_house": "",
+      "ref_object": "",
+      "price_display": 1150,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "rent_net": null,
+      "rent_charges": null,
+      "rent_gross": 1150,
+      "short_title": "Room in a shared flat",
+      "public_title": "Rieterstrasse 48, 8002 Zürich - CHF 1,150 incl. utilities per month",
+      "rent_title": "Rent a Room in a shared flat in Zürich",
+      "description_title": null,
+      "description": "",
+      "livingspace": 40,
+      "number_of_rooms": "1.0",
+      "floor": 4,
+      "attributes": [
+        {
+          "name": "broadbandinternet"
+        },
+        {
+          "name": "cable"
+        },
+        {
+          "name": "washingmachine"
+        },
+        {
+          "name": "tumbler"
+        },
+        {
+          "name": "dishwasher"
+        },
+        {
+          "name": "lift"
+        },
+        {
+          "name": "view"
+        },
+        {
+          "name": "balconygarden"
+        }
+      ],
+      "is_furnished": true,
+      "is_temporary": false,
+      "is_selling_furniture": false,
+      "show_exact_address": true,
+      "zipcode": 8002,
+      "city": "Zürich",
+      "public_address": "Rieterstrasse 48, 8002 Zürich",
+      "latitude": 47.357518,
+      "longitude": 8.5257427,
+      "year_built": null,
+      "moving_date_type": "agr",
+      "moving_date": null,
+      "video_url": "",
+      "tour_url": "",
+      "website_url": "",
+      "cover_image": {
+        "pk": 1704534,
+        "caption": "",
+        "url": "/media/ff/2019/10/56lm046bor4oya5z7vfvc4ufijctiunw6thzuhlds5e6pdrthh.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/56lm046bor4oya5z7vfvc4ufijctiunw6thzuhlds5e6pdrthh.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/56lm046bor4oya5z7vfvc4ufijctiunw6thzuhlds5e6pdrthh.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/56lm046bor4oya5z7vfvc4ufijctiunw6thzuhlds5e6pdrthh.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 1050,
+        "height": 1400
+      },
+      "images": [
+        {
+          "pk": 1704534,
+          "caption": "",
+          "url": "/media/ff/2019/10/56lm046bor4oya5z7vfvc4ufijctiunw6thzuhlds5e6pdrthh.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/56lm046bor4oya5z7vfvc4ufijctiunw6thzuhlds5e6pdrthh.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/56lm046bor4oya5z7vfvc4ufijctiunw6thzuhlds5e6pdrthh.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/56lm046bor4oya5z7vfvc4ufijctiunw6thzuhlds5e6pdrthh.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704529,
+          "caption": "",
+          "url": "/media/ff/2019/10/7yzod6aemogud3vdhumflhjp8971qmmwzl8jb6vhaj37i1ke0y.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/7yzod6aemogud3vdhumflhjp8971qmmwzl8jb6vhaj37i1ke0y.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/7yzod6aemogud3vdhumflhjp8971qmmwzl8jb6vhaj37i1ke0y.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/7yzod6aemogud3vdhumflhjp8971qmmwzl8jb6vhaj37i1ke0y.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704530,
+          "caption": "",
+          "url": "/media/ff/2019/10/a77tvslijcmhxdyucqrrgjn0y4n38edeo3iim7qqdlj6zyg9lu.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/a77tvslijcmhxdyucqrrgjn0y4n38edeo3iim7qqdlj6zyg9lu.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/a77tvslijcmhxdyucqrrgjn0y4n38edeo3iim7qqdlj6zyg9lu.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/a77tvslijcmhxdyucqrrgjn0y4n38edeo3iim7qqdlj6zyg9lu.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 3,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704533,
+          "caption": "",
+          "url": "/media/ff/2019/10/qmf8f0uunqv99l9rwexatc7jairu4p173w3c7kuxqxsc60ln21.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/qmf8f0uunqv99l9rwexatc7jairu4p173w3c7kuxqxsc60ln21.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/qmf8f0uunqv99l9rwexatc7jairu4p173w3c7kuxqxsc60ln21.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/qmf8f0uunqv99l9rwexatc7jairu4p173w3c7kuxqxsc60ln21.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 4,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704532,
+          "caption": "",
+          "url": "/media/ff/2019/10/n29n2q2t6eci4l4kn5h30d3yf2tadpdguyfrgabgnaui1clfqu.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/n29n2q2t6eci4l4kn5h30d3yf2tadpdguyfrgabgnaui1clfqu.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/n29n2q2t6eci4l4kn5h30d3yf2tadpdguyfrgabgnaui1clfqu.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/n29n2q2t6eci4l4kn5h30d3yf2tadpdguyfrgabgnaui1clfqu.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 5,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704531,
+          "caption": "",
+          "url": "/media/ff/2019/10/8gyvytit1lzw3j9xajiq1aipprxbp8e1yw6iqcbkwmi207r47e.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/8gyvytit1lzw3j9xajiq1aipprxbp8e1yw6iqcbkwmi207r47e.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/8gyvytit1lzw3j9xajiq1aipprxbp8e1yw6iqcbkwmi207r47e.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/8gyvytit1lzw3j9xajiq1aipprxbp8e1yw6iqcbkwmi207r47e.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 6,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704535,
+          "caption": "",
+          "url": "/media/ff/2019/10/t5loh47lpbsz5xlk7fsoyrt7lawtxemwr3dp1rqkwkeg43pjff.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/t5loh47lpbsz5xlk7fsoyrt7lawtxemwr3dp1rqkwkeg43pjff.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/t5loh47lpbsz5xlk7fsoyrt7lawtxemwr3dp1rqkwkeg43pjff.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/t5loh47lpbsz5xlk7fsoyrt7lawtxemwr3dp1rqkwkeg43pjff.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 7,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704536,
+          "caption": "",
+          "url": "/media/ff/2019/10/fivj56cr5pdzoeyvxppoj19k3rrlzwt3ffx6mmodn35olrophd.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/fivj56cr5pdzoeyvxppoj19k3rrlzwt3ffx6mmodn35olrophd.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/fivj56cr5pdzoeyvxppoj19k3rrlzwt3ffx6mmodn35olrophd.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/fivj56cr5pdzoeyvxppoj19k3rrlzwt3ffx6mmodn35olrophd.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 8,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704537,
+          "caption": "",
+          "url": "/media/ff/2019/10/mku9nqu32cm2nvhqclz8puof12jtlncyrxw49tdabudipt632c.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/mku9nqu32cm2nvhqclz8puof12jtlncyrxw49tdabudipt632c.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/mku9nqu32cm2nvhqclz8puof12jtlncyrxw49tdabudipt632c.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/mku9nqu32cm2nvhqclz8puof12jtlncyrxw49tdabudipt632c.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 9,
+          "width": 1400,
+          "height": 1050
+        }
+      ],
+      "documents": [],
+      "organization": null,
+      "id": 128582,
+      "cover_image_url": "/media/thumbs/ff/2019/10/56lm046bor4oya5z7vfvc4ufijctiunw6thzuhlds5e6pdrthh.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "Room in a shared flat, 8002 Zürich",
+      "rent_display": 1150,
+      "category": "SHARED",
+      "public_subtitle": "Rieterstrasse 48, 8002 Zürich - CHF 1,150 incl. utilities per month"
+    },
+    {
+      "pk": 128567,
+      "slug": "8700-kusnacht",
+      "url": "/en/flat/8700-kusnacht/128567/",
+      "short_url": "/128567/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "RENT",
+      "object_category": "APARTMENT",
+      "object_type": "APARTMENT",
+      "ref_property": "",
+      "ref_house": "",
+      "ref_object": "",
+      "price_display": 3310,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "rent_net": null,
+      "rent_charges": 180,
+      "rent_gross": 3310,
+      "short_title": "4 ½ rooms apartment",
+      "public_title": "8700 Küsnacht - CHF 3,310 incl. utilities per month",
+      "rent_title": "Rent a 4 ½ rooms apartment in Küsnacht",
+      "description_title": null,
+      "description": "Beautiful ground floor apartment for rent from January 2020. Direct access to  the cellar down the stairs in the apartment . With fireplace . Garage space can be rented for additional 130 pm",
+      "livingspace": null,
+      "number_of_rooms": "4.5",
+      "floor": 0,
+      "attributes": [
+        {
+          "name": "balconygarden"
+        },
+        {
+          "name": "garage"
+        },
+        {
+          "name": "fireplace"
+        },
+        {
+          "name": "dishwasher"
+        },
+        {
+          "name": "tumbler"
+        },
+        {
+          "name": "washingmachine"
+        }
+      ],
+      "is_furnished": false,
+      "is_temporary": false,
+      "is_selling_furniture": false,
+      "show_exact_address": false,
+      "zipcode": 8700,
+      "city": "Küsnacht",
+      "public_address": "8700 Küsnacht",
+      "latitude": 47.3184601687091,
+      "longitude": 8.59268044359862,
+      "year_built": null,
+      "moving_date_type": "dat",
+      "moving_date": "2020-01-02",
+      "video_url": "",
+      "tour_url": "",
+      "website_url": "",
+      "cover_image": {
+        "pk": 1704379,
+        "caption": "",
+        "url": "/media/ff/2019/10/m0zj4oiwol97b4w2a7fzhwhvg3pg5xqi98161jjb9h0ut1m4mt.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/m0zj4oiwol97b4w2a7fzhwhvg3pg5xqi98161jjb9h0ut1m4mt.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/m0zj4oiwol97b4w2a7fzhwhvg3pg5xqi98161jjb9h0ut1m4mt.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/m0zj4oiwol97b4w2a7fzhwhvg3pg5xqi98161jjb9h0ut1m4mt.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 1400,
+        "height": 1050
+      },
+      "images": [
+        {
+          "pk": 1704379,
+          "caption": "",
+          "url": "/media/ff/2019/10/m0zj4oiwol97b4w2a7fzhwhvg3pg5xqi98161jjb9h0ut1m4mt.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/m0zj4oiwol97b4w2a7fzhwhvg3pg5xqi98161jjb9h0ut1m4mt.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/m0zj4oiwol97b4w2a7fzhwhvg3pg5xqi98161jjb9h0ut1m4mt.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/m0zj4oiwol97b4w2a7fzhwhvg3pg5xqi98161jjb9h0ut1m4mt.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704380,
+          "caption": "",
+          "url": "/media/ff/2019/10/d6nvag6z5dslgwz0ekcb42ze023ll253rngh5fiq2xtime0gfe.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/d6nvag6z5dslgwz0ekcb42ze023ll253rngh5fiq2xtime0gfe.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/d6nvag6z5dslgwz0ekcb42ze023ll253rngh5fiq2xtime0gfe.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/d6nvag6z5dslgwz0ekcb42ze023ll253rngh5fiq2xtime0gfe.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1704381,
+          "caption": "",
+          "url": "/media/ff/2019/10/wtxkbfk6x9apkcb1v4m4aipz4ugxlmrd10wcneig4ir3rg5do3.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/wtxkbfk6x9apkcb1v4m4aipz4ugxlmrd10wcneig4ir3rg5do3.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/wtxkbfk6x9apkcb1v4m4aipz4ugxlmrd10wcneig4ir3rg5do3.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/wtxkbfk6x9apkcb1v4m4aipz4ugxlmrd10wcneig4ir3rg5do3.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 3,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704382,
+          "caption": "",
+          "url": "/media/ff/2019/10/twr9l8i2gwigbureujzn667x4fi8pbz5x5ky61xjtrm2p29rab.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/twr9l8i2gwigbureujzn667x4fi8pbz5x5ky61xjtrm2p29rab.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/twr9l8i2gwigbureujzn667x4fi8pbz5x5ky61xjtrm2p29rab.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/twr9l8i2gwigbureujzn667x4fi8pbz5x5ky61xjtrm2p29rab.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 4,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1704496,
+          "caption": "",
+          "url": "/media/ff/2019/10/j1pnhqzq79b50bh9yba4zm09gyn7g7rdk2gq5wmretcxed79dc.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/j1pnhqzq79b50bh9yba4zm09gyn7g7rdk2gq5wmretcxed79dc.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/j1pnhqzq79b50bh9yba4zm09gyn7g7rdk2gq5wmretcxed79dc.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/j1pnhqzq79b50bh9yba4zm09gyn7g7rdk2gq5wmretcxed79dc.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 5,
+          "width": 1050,
+          "height": 1400
+        }
+      ],
+      "documents": [],
+      "organization": null,
+      "id": 128567,
+      "cover_image_url": "/media/thumbs/ff/2019/10/m0zj4oiwol97b4w2a7fzhwhvg3pg5xqi98161jjb9h0ut1m4mt.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "4 ½ rooms apartment, 8700 Küsnacht",
+      "rent_display": 3310,
+      "category": "APARTMENT",
+      "public_subtitle": "8700 Küsnacht - CHF 3,310 incl. utilities per month"
+    },
+    {
+      "pk": 128566,
+      "slug": "6340-baar",
+      "url": "/en/flat/6340-baar/128566/",
+      "short_url": "/128566/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "RENT",
+      "object_category": "APARTMENT",
+      "object_type": "APARTMENT",
+      "ref_property": "",
+      "ref_house": "",
+      "ref_object": "",
+      "price_display": 1300,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "rent_net": null,
+      "rent_charges": null,
+      "rent_gross": 1300,
+      "short_title": "1 ½ rooms apartment",
+      "public_title": "6340 Baar - CHF 1,300 incl. utilities per month",
+      "rent_title": "Rent a 1 ½ rooms apartment in Baar",
+      "description_title": "Zentrale 1 1/2-Zimmerwohnung",
+      "description": "Per 15.Nov. 2019 suche ich einen Nachmieter/in für die sehr zentrale und heimelige Dachwohnung mitten in Baar.\n\n-Küche mit Granit-Abdeckung und geräumige Küchenschränke, neuer Linoleum-Boden mit Plattenoptik (2019)\n-Bad mit Dusche, neuer Plattenboden (2019)\n- Wohnraum mit Teppich\n- elektrisches Dachfenster\n-Waschmaschiene und Trocknungsraum zur Mitbenutzung\n-eigenes Kellerabteil\n-Stauraum in Dachschräge mit Schiebetüre abtrennbar\n- Garage/Einstellplatz kann dazu gemietet werden\n- 200m Distanz zu Bahnhof und Einkaufsmöglichkeiten",
+      "livingspace": null,
+      "number_of_rooms": "1.5",
+      "floor": 2,
+      "attributes": [
+        {
+          "name": "cable"
+        },
+        {
+          "name": "garage"
+        }
+      ],
+      "is_furnished": false,
+      "is_temporary": false,
+      "is_selling_furniture": false,
+      "show_exact_address": false,
+      "zipcode": 6340,
+      "city": "Baar",
+      "public_address": "6340 Baar",
+      "latitude": 47.1953808439175,
+      "longitude": 8.52605757509529,
+      "year_built": null,
+      "moving_date_type": "dat",
+      "moving_date": "2019-11-15",
+      "video_url": "",
+      "tour_url": "",
+      "website_url": "",
+      "cover_image": {
+        "pk": 1703544,
+        "caption": "",
+        "url": "/media/ff/2019/10/yc6e2b96c9wqvvor0c4ecxocej6jlhfnkpwu2bpo8odp66o4ea.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/yc6e2b96c9wqvvor0c4ecxocej6jlhfnkpwu2bpo8odp66o4ea.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/yc6e2b96c9wqvvor0c4ecxocej6jlhfnkpwu2bpo8odp66o4ea.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/yc6e2b96c9wqvvor0c4ecxocej6jlhfnkpwu2bpo8odp66o4ea.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 1400,
+        "height": 1050
+      },
+      "images": [
+        {
+          "pk": 1703544,
+          "caption": "",
+          "url": "/media/ff/2019/10/yc6e2b96c9wqvvor0c4ecxocej6jlhfnkpwu2bpo8odp66o4ea.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/yc6e2b96c9wqvvor0c4ecxocej6jlhfnkpwu2bpo8odp66o4ea.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/yc6e2b96c9wqvvor0c4ecxocej6jlhfnkpwu2bpo8odp66o4ea.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/yc6e2b96c9wqvvor0c4ecxocej6jlhfnkpwu2bpo8odp66o4ea.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1703545,
+          "caption": "",
+          "url": "/media/ff/2019/10/rwmq5rpz50cfm1hqxfzd7nxxxk9k0m3tss2q8e5tji5k3ht24u.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/rwmq5rpz50cfm1hqxfzd7nxxxk9k0m3tss2q8e5tji5k3ht24u.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/rwmq5rpz50cfm1hqxfzd7nxxxk9k0m3tss2q8e5tji5k3ht24u.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/rwmq5rpz50cfm1hqxfzd7nxxxk9k0m3tss2q8e5tji5k3ht24u.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1703553,
+          "caption": "",
+          "url": "/media/ff/2019/10/1aa3vz74cn2yyysutiedzsknt4cv0mbkw11vrr673o7hv4zstp.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/1aa3vz74cn2yyysutiedzsknt4cv0mbkw11vrr673o7hv4zstp.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/1aa3vz74cn2yyysutiedzsknt4cv0mbkw11vrr673o7hv4zstp.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/1aa3vz74cn2yyysutiedzsknt4cv0mbkw11vrr673o7hv4zstp.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 3,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1703554,
+          "caption": "",
+          "url": "/media/ff/2019/10/faueqg4ng78nhp8w9bei4rqw26fip2k5qfl6ypcaaz0rlnu6dg.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/faueqg4ng78nhp8w9bei4rqw26fip2k5qfl6ypcaaz0rlnu6dg.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/faueqg4ng78nhp8w9bei4rqw26fip2k5qfl6ypcaaz0rlnu6dg.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/faueqg4ng78nhp8w9bei4rqw26fip2k5qfl6ypcaaz0rlnu6dg.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 4,
+          "width": 1400,
+          "height": 1050
+        },
+        {
+          "pk": 1703556,
+          "caption": "",
+          "url": "/media/ff/2019/10/g1zicqif6xwuozxtf0pea6t7akgehyc8bhdhpa4bbs7q3ocbjm.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/g1zicqif6xwuozxtf0pea6t7akgehyc8bhdhpa4bbs7q3ocbjm.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/g1zicqif6xwuozxtf0pea6t7akgehyc8bhdhpa4bbs7q3ocbjm.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/g1zicqif6xwuozxtf0pea6t7akgehyc8bhdhpa4bbs7q3ocbjm.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 5,
+          "width": 1050,
+          "height": 1400
+        },
+        {
+          "pk": 1703557,
+          "caption": "",
+          "url": "/media/ff/2019/10/1royq21h8am74qz202gia49ounzi3sb0307tpr1u3k1w5wyaq1.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/1royq21h8am74qz202gia49ounzi3sb0307tpr1u3k1w5wyaq1.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/1royq21h8am74qz202gia49ounzi3sb0307tpr1u3k1w5wyaq1.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/1royq21h8am74qz202gia49ounzi3sb0307tpr1u3k1w5wyaq1.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 6,
+          "width": 1050,
+          "height": 1400
+        }
+      ],
+      "documents": [],
+      "organization": null,
+      "id": 128566,
+      "cover_image_url": "/media/thumbs/ff/2019/10/yc6e2b96c9wqvvor0c4ecxocej6jlhfnkpwu2bpo8odp66o4ea.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "1 ½ rooms apartment, 6340 Baar",
+      "rent_display": 1300,
+      "category": "APARTMENT",
+      "public_subtitle": "6340 Baar - CHF 1,300 incl. utilities per month"
+    },
+    {
+      "pk": 118985,
+      "slug": "hauptstrasse-7a-5502-hunzenschwil",
+      "url": "/en/flat/hauptstrasse-7a-5502-hunzenschwil/118985/",
+      "short_url": "/118985/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "RENT",
+      "object_category": "APARTMENT",
+      "object_type": "ATTIC_FLAT",
+      "ref_property": "7550",
+      "ref_house": "01",
+      "ref_object": "0501",
+      "price_display": 2545,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "rent_net": 2250,
+      "rent_charges": 295,
+      "rent_gross": 2545,
+      "short_title": "4 ½ rooms attic flat",
+      "public_title": "Hauptstrasse 7a, 5502 Hunzenschwil - CHF 2,545 incl. utilities per month",
+      "rent_title": "Rent a 4 ½ rooms attic flat in Hunzenschwil",
+      "description_title": "Verbringen Sie Ihren Feierabend auf der Sonnenterrasse!",
+      "description": "Die Lage\nLändlich und doch am Puls der Schweiz, liegt Hunzenschwil in einer flachen Ebene am südlichen Rand des aargauischen Aaretals. Dank der guten Erschliessung durch Bahn und Strasse kann jeder Ort in der Schweiz schnell und problemlos erreicht werden. Wichtige Bezugspunkte für Hunzenschwil sind der 7 km entfernte Kantonshauptort Aarau sowie Lenzburg, das nur 4 km entfernt ist. \n\nEin Rundgang durch die Wohnung\nDer grosszügige Grundriss dieser Wohnung lässt Ihnen die Freiheit, sich individuell einzurichten und Ihren Wohntraum in die Tat umzusetzen. Dank durchdachten Raumaufteilung verfügt die Wohnung über geräumige Zimmer, welche viel Raum für Individualität bieten. Nicht zu vergessen ist die offene, moderne Küche, welche das Herz jedes Hobby-Kochs höherschlagen lässt sowie der helle Parkettboden der für ausgesuchte Wohnatmosphäre sorgt. Den Feierabend verbringen Sie auf der 150 m2 grossen Terrasse. Zudem bietet Ihnen Ihr neues Zuhause noch folgende Vorzüge:\n\n - Zu vermieten per sofort oder nach Vereinbarung\n - Wohn- und Schlafräume begeistern mit wunderschönem Eichenparkett\n - Matt weisse Küche ausgestattet mit Glaskeramikkochfeld\n - Geschirrwaschmaschine und Flachschirm-Dampfabzug\n - Waschmaschine/Tumbler\n - Bad/Dusche/WC\n - WC/Dusche\n - Beide Badezimmer mit pflegeleichten Steinfliesen versehen\n - Ein grosse Dachterrasse lädt zum Sonne tanken ein\n - Ein Kellerabteil ist Bestandteil der Wohnung\n\nDetails\nEinstellplätze in der Tiefgarage können für CHF 130.- monatlich, dazu gemietet werden.\n\nAnrufen. Besichtigen. Mieten.\nWir freuen uns auf Ihre Kontaktaufnahme!\n\nBrigitta Käser\n058 280 86 72\nbrigitta.kaeser@helvetia.ch\n\nAls Mieter von Helvetia erhalten Sie eine kostenlose Umzugsversicherung für den Umzug in Ihre neue Wohnung und profitieren ausserdem zusätzlich von 50% Rabatt auf Ihre erste Jahresprämie für ausgewählte Helvetia Versicherungsprodukte!\n\nBei den publizierten Bildern handelt es sich um typenähnliche / typengleiche Wohnungen. Abweichungen zum effektiven Angebot sind deshalb möglich.\n\nWeitere interessante Mietobjekte finden Sie unter: www.helvetia.ch/immobilien",
+      "livingspace": 119,
+      "number_of_rooms": "4.5",
+      "floor": 5,
+      "attributes": [
+        {
+          "name": "petsallowed"
+        },
+        {
+          "name": "view"
+        },
+        {
+          "name": "parkingspace"
+        },
+        {
+          "name": "balconygarden"
+        },
+        {
+          "name": "cable"
+        },
+        {
+          "name": "lift"
+        }
+      ],
+      "is_furnished": false,
+      "is_temporary": false,
+      "is_selling_furniture": false,
+      "show_exact_address": true,
+      "zipcode": 5502,
+      "city": "Hunzenschwil",
+      "public_address": "Hauptstrasse 7a, 5502 Hunzenschwil",
+      "latitude": 47.3863743,
+      "longitude": 8.1263362,
+      "year_built": 2016,
+      "moving_date_type": "agr",
+      "moving_date": null,
+      "video_url": null,
+      "tour_url": null,
+      "website_url": null,
+      "cover_image": {
+        "pk": 1704208,
+        "caption": "",
+        "url": "/media/ff/2019/10/3wvkvfnyd2eweietummoiyi4kcsxyidy2adrdfx7svmku2myn9.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/3wvkvfnyd2eweietummoiyi4kcsxyidy2adrdfx7svmku2myn9.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/3wvkvfnyd2eweietummoiyi4kcsxyidy2adrdfx7svmku2myn9.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/3wvkvfnyd2eweietummoiyi4kcsxyidy2adrdfx7svmku2myn9.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 800,
+        "height": 534
+      },
+      "images": [
+        {
+          "pk": 1704208,
+          "caption": "",
+          "url": "/media/ff/2019/10/3wvkvfnyd2eweietummoiyi4kcsxyidy2adrdfx7svmku2myn9.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/3wvkvfnyd2eweietummoiyi4kcsxyidy2adrdfx7svmku2myn9.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/3wvkvfnyd2eweietummoiyi4kcsxyidy2adrdfx7svmku2myn9.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/3wvkvfnyd2eweietummoiyi4kcsxyidy2adrdfx7svmku2myn9.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 800,
+          "height": 534
+        },
+        {
+          "pk": 1704209,
+          "caption": "",
+          "url": "/media/ff/2019/10/j4ai19j582l5m9acgvl9qifxyo37k78xlqye0yglkm5iwttoir.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/j4ai19j582l5m9acgvl9qifxyo37k78xlqye0yglkm5iwttoir.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/j4ai19j582l5m9acgvl9qifxyo37k78xlqye0yglkm5iwttoir.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/j4ai19j582l5m9acgvl9qifxyo37k78xlqye0yglkm5iwttoir.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 800,
+          "height": 532
+        },
+        {
+          "pk": 1704210,
+          "caption": "",
+          "url": "/media/ff/2019/10/s2jzw3yryfx2je56uf03si8a5c4i904sko1m913zx94gggev3j.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/s2jzw3yryfx2je56uf03si8a5c4i904sko1m913zx94gggev3j.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/s2jzw3yryfx2je56uf03si8a5c4i904sko1m913zx94gggev3j.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/s2jzw3yryfx2je56uf03si8a5c4i904sko1m913zx94gggev3j.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 3,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "pk": 1704211,
+          "caption": "",
+          "url": "/media/ff/2019/10/i10j4f32fkg6mn0bm6wc2jak0ud43m1rneutzhqt3kdjytltpd.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/i10j4f32fkg6mn0bm6wc2jak0ud43m1rneutzhqt3kdjytltpd.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/i10j4f32fkg6mn0bm6wc2jak0ud43m1rneutzhqt3kdjytltpd.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/i10j4f32fkg6mn0bm6wc2jak0ud43m1rneutzhqt3kdjytltpd.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 4,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "pk": 1704212,
+          "caption": "Beispielfoto",
+          "url": "/media/ff/2019/10/mb9mfxl7vjl8uv6c954a5fqo2bmgalkbty6j5hz42yicrynpn2.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/mb9mfxl7vjl8uv6c954a5fqo2bmgalkbty6j5hz42yicrynpn2.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/mb9mfxl7vjl8uv6c954a5fqo2bmgalkbty6j5hz42yicrynpn2.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/mb9mfxl7vjl8uv6c954a5fqo2bmgalkbty6j5hz42yicrynpn2.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 5,
+          "width": 800,
+          "height": 534
+        },
+        {
+          "pk": 1704213,
+          "caption": "Beispielfoto",
+          "url": "/media/ff/2019/10/y4skl3zlpmo7vmo5qps0du3hg40to26f53z7lod0kmewholqnk.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/y4skl3zlpmo7vmo5qps0du3hg40to26f53z7lod0kmewholqnk.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/y4skl3zlpmo7vmo5qps0du3hg40to26f53z7lod0kmewholqnk.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/y4skl3zlpmo7vmo5qps0du3hg40to26f53z7lod0kmewholqnk.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 6,
+          "width": 800,
+          "height": 533
+        },
+        {
+          "pk": 1704214,
+          "caption": "Beispielfoto",
+          "url": "/media/ff/2019/10/mkevpctf26wy74yga7t4wkcrxn7ft0icck6mtdywwe2kqhyahp.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/mkevpctf26wy74yga7t4wkcrxn7ft0icck6mtdywwe2kqhyahp.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/mkevpctf26wy74yga7t4wkcrxn7ft0icck6mtdywwe2kqhyahp.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/mkevpctf26wy74yga7t4wkcrxn7ft0icck6mtdywwe2kqhyahp.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 7,
+          "width": 400,
+          "height": 600
+        },
+        {
+          "pk": 1704215,
+          "caption": "Beispielfoto",
+          "url": "/media/ff/2019/10/375vgsj971h8elezvzoqhylpf3ii0oj1bb7dra66sm5g3elarj.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/375vgsj971h8elezvzoqhylpf3ii0oj1bb7dra66sm5g3elarj.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/375vgsj971h8elezvzoqhylpf3ii0oj1bb7dra66sm5g3elarj.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/375vgsj971h8elezvzoqhylpf3ii0oj1bb7dra66sm5g3elarj.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 8,
+          "width": 400,
+          "height": 600
+        },
+        {
+          "pk": 1704216,
+          "caption": "Beispielfoto",
+          "url": "/media/ff/2019/10/8tubxsax389thfgl7fn0yfo25nvs16oxgmej933m1rlveohi9w.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/8tubxsax389thfgl7fn0yfo25nvs16oxgmej933m1rlveohi9w.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/8tubxsax389thfgl7fn0yfo25nvs16oxgmej933m1rlveohi9w.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/8tubxsax389thfgl7fn0yfo25nvs16oxgmej933m1rlveohi9w.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 9,
+          "width": 800,
+          "height": 565
+        },
+        {
+          "pk": 1704217,
+          "caption": "",
+          "url": "/media/ff/2019/10/4zn5jk3wc3whf0zgfzynb5uj5u4gz710iv12dkgao9g4diewif.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/4zn5jk3wc3whf0zgfzynb5uj5u4gz710iv12dkgao9g4diewif.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/4zn5jk3wc3whf0zgfzynb5uj5u4gz710iv12dkgao9g4diewif.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/4zn5jk3wc3whf0zgfzynb5uj5u4gz710iv12dkgao9g4diewif.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 10,
+          "width": 800,
+          "height": 564
+        },
+        {
+          "pk": 1704218,
+          "caption": "",
+          "url": "/media/ff/2019/10/rdd1znepx3biip8ri0mhk9dr0xgov2icvmzcxokeiqdqc2hibm.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/rdd1znepx3biip8ri0mhk9dr0xgov2icvmzcxokeiqdqc2hibm.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/rdd1znepx3biip8ri0mhk9dr0xgov2icvmzcxokeiqdqc2hibm.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/rdd1znepx3biip8ri0mhk9dr0xgov2icvmzcxokeiqdqc2hibm.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 11,
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "documents": [],
+      "organization": {
+        "name": "Helvetia",
+        "logo": {
+          "url": "/media/thumbs/org/2017/07/xnz7tkf5oagde06pe0q8x33cwb95fydn2h04q293f9xifbqpp6.png.360x0_q85_upscale.png",
+          "url_org_logo_m": "/media/thumbs/org/2017/07/xnz7tkf5oagde06pe0q8x33cwb95fydn2h04q293f9xifbqpp6.png.360x0_q85_upscale.png"
+        }
+      },
+      "id": 118985,
+      "cover_image_url": "/media/thumbs/ff/2019/10/3wvkvfnyd2eweietummoiyi4kcsxyidy2adrdfx7svmku2myn9.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "4 ½ rooms attic flat, 5502 Hunzenschwil",
+      "rent_display": 2545,
+      "category": "APARTMENT",
+      "public_subtitle": "Hauptstrasse 7a, 5502 Hunzenschwil - CHF 2,545 incl. utilities per month"
+    },
+    {
+      "pk": 123005,
+      "slug": "fliederweg-12-2503-bielbienne",
+      "url": "/en/flat/fliederweg-12-2503-bielbienne/123005/",
+      "short_url": "/123005/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "RENT",
+      "object_category": "APARTMENT",
+      "object_type": "APARTMENT",
+      "ref_property": "4259",
+      "ref_house": "04",
+      "ref_object": "0001",
+      "price_display": 1850,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "rent_net": 1530,
+      "rent_charges": 320,
+      "rent_gross": 1850,
+      "short_title": "4 ½ rooms apartment",
+      "public_title": "Fliederweg 12, 2503 Biel/Bienne - CHF 1,850 incl. utilities per month",
+      "rent_title": "Rent a 4 ½ rooms apartment in Biel/Bienne",
+      "description_title": "Fürs Leben gemacht",
+      "description": "Die Lage\nSie haben viele unterschiedliche Interessen, sind aktiv, leiben Sport und Kultur? Ihre Familie, Ihre Arbeit und die Natur sind Ihnen wichtig?  Und Ihr grosser Wunsch ist ein zu Hause zum Wohlfühlen und Geniessen? Herzlich willkommen am Fliederweg. \n\nEin Rundgang durch Ihre Wohnung\nDie Liegenschaft wurde im 2011 erstellt. Die durchdachte Anordnung, der grosszügige Gartensitzplatz schafft Privatsphäre und ihre Ausrichtung nach Südwesten bürgt für viele sonnige Stunden in der attraktiven Wohnung mit 102m². Weiter bietet Ihnen diese Wohnung folgende Vorzüge:\n\n - offene Einbauküche mit Geschirrspüler, Glaskeramikherd, Kühlschrank mit sep. Tiefkühlfach\n - Badezimmer mit Badewanne, Waschtisch und WC\n - Dusche, Waschtisch und WC\n - Plattenboden in Küche, Bad, Dusche und Wohnzimmer\n - Parkett im Schlaf- und in den Kinderzimmern\n - Gartensitzplatz\n - Kellerabteil\n - Lift\n\nDetails\nEin Einstellhallenplatz in der Tiefgarage kann auf Wunsch dazu gemietet werden.  In der Überbauung befindet sich ein Spielplatz Die Aussenanlage ist attraktiv und übersichtlich gestaltet. Unser Hauptamtliche Hauswart hält die Liegenschaft im Schuss und ist jederzeit Ihr Ansprechpartner.Biel ist hervorragend ans Schweizer Strassen- und Eisenbahnnetz angebunden. Vier internationale Flughäfen sind innert 90 Minuten erreichbar. Nebst einer beispielhaften Infrastruktur bietet die Jura- und Seestadt auch ein abwechslungsreiches Freizeitangebot; zahlreiche Sportvereine, verschiedene kulturelle Anlässe, Museen, Naherholungsgebiete (Bielersee, Jura, Parkanlagen, Wälder usw.)\n\nWeitere Informationen über Biel finden Sie unter: www.biel-bienne.ch\n\nAnrufen. Besichtigen. Mieten.\nWir freuen uns auf Ihre Kontaktaufnahme!\n\n4L services AG\nHerr Anthony Buholzer \n032 396 05 60\n\nAls Mieter von Helvetia erhalten Sie eine kostenlose Umzugsversicherung für den Umzug in Ihre neue Wohnung und profitieren ausserdem zusätzlich von 50% Rabatt auf Ihre erste Jahresprämie für ausgewählte Helvetia Versicherungsprodukte! \n\nBei den Publizierten Bildern handelt es sich um typenähnliche/typgleiche Wohnungen. Abweichungen zum effektiven Angebot sind deshalb möglich.\n\nWeitere interessante Mietobjekte finden Sie unter: www.helvetia.ch/immobilien",
+      "livingspace": 102,
+      "number_of_rooms": "4.5",
+      "floor": 0,
+      "attributes": [
+        {
+          "name": "accessiblewithwheelchair"
+        },
+        {
+          "name": "garage"
+        },
+        {
+          "name": "balconygarden"
+        },
+        {
+          "name": "cable"
+        },
+        {
+          "name": "lift"
+        },
+        {
+          "name": "petsallowed"
+        }
+      ],
+      "is_furnished": false,
+      "is_temporary": false,
+      "is_selling_furniture": false,
+      "show_exact_address": true,
+      "zipcode": 2503,
+      "city": "Biel/Bienne",
+      "public_address": "Fliederweg 12, 2503 Biel/Bienne",
+      "latitude": 47.1294743,
+      "longitude": 7.2569442,
+      "year_built": 2011,
+      "moving_date_type": "dat",
+      "moving_date": "2019-12-01",
+      "video_url": null,
+      "tour_url": null,
+      "website_url": null,
+      "cover_image": {
+        "pk": 1704161,
+        "caption": "",
+        "url": "/media/ff/2019/10/nu0gwy3ve9g1l1kp1ku12ap0y9lb2p41kc931rjfo2t5k0zslj.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/nu0gwy3ve9g1l1kp1ku12ap0y9lb2p41kc931rjfo2t5k0zslj.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/nu0gwy3ve9g1l1kp1ku12ap0y9lb2p41kc931rjfo2t5k0zslj.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/nu0gwy3ve9g1l1kp1ku12ap0y9lb2p41kc931rjfo2t5k0zslj.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 800,
+        "height": 543
+      },
+      "images": [
+        {
+          "pk": 1704161,
+          "caption": "",
+          "url": "/media/ff/2019/10/nu0gwy3ve9g1l1kp1ku12ap0y9lb2p41kc931rjfo2t5k0zslj.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/nu0gwy3ve9g1l1kp1ku12ap0y9lb2p41kc931rjfo2t5k0zslj.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/nu0gwy3ve9g1l1kp1ku12ap0y9lb2p41kc931rjfo2t5k0zslj.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/nu0gwy3ve9g1l1kp1ku12ap0y9lb2p41kc931rjfo2t5k0zslj.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 800,
+          "height": 543
+        },
+        {
+          "pk": 1704162,
+          "caption": "",
+          "url": "/media/ff/2019/10/lkpjn7xw9n3kh3unxwyvm925ng3saiqhdbngk7atue916dzt1n.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/lkpjn7xw9n3kh3unxwyvm925ng3saiqhdbngk7atue916dzt1n.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/lkpjn7xw9n3kh3unxwyvm925ng3saiqhdbngk7atue916dzt1n.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/lkpjn7xw9n3kh3unxwyvm925ng3saiqhdbngk7atue916dzt1n.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 424,
+          "height": 600
+        },
+        {
+          "pk": 1704163,
+          "caption": "Muster",
+          "url": "/media/ff/2019/10/zm97syrque3l4f3fkmnlffwu81aor0jdvq6rm9hjz4trvwllyk.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/zm97syrque3l4f3fkmnlffwu81aor0jdvq6rm9hjz4trvwllyk.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/zm97syrque3l4f3fkmnlffwu81aor0jdvq6rm9hjz4trvwllyk.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/zm97syrque3l4f3fkmnlffwu81aor0jdvq6rm9hjz4trvwllyk.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 3,
+          "width": 640,
+          "height": 480
+        },
+        {
+          "pk": 1704164,
+          "caption": "Muster",
+          "url": "/media/ff/2019/10/pcpvm7s8xfnw3wpvncb8e2aojvrdj434g8inmz4admjxjmv2r9.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/pcpvm7s8xfnw3wpvncb8e2aojvrdj434g8inmz4admjxjmv2r9.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/pcpvm7s8xfnw3wpvncb8e2aojvrdj434g8inmz4admjxjmv2r9.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/pcpvm7s8xfnw3wpvncb8e2aojvrdj434g8inmz4admjxjmv2r9.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 4,
+          "width": 640,
+          "height": 480
+        },
+        {
+          "pk": 1704165,
+          "caption": "Muster",
+          "url": "/media/ff/2019/10/urtwb46gjxu1ibqrleaxdevb57p5u6oxmwlp9pgxafgy792gci.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/urtwb46gjxu1ibqrleaxdevb57p5u6oxmwlp9pgxafgy792gci.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/urtwb46gjxu1ibqrleaxdevb57p5u6oxmwlp9pgxafgy792gci.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/urtwb46gjxu1ibqrleaxdevb57p5u6oxmwlp9pgxafgy792gci.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 5,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "pk": 1704166,
+          "caption": "Muster",
+          "url": "/media/ff/2019/10/cxb0j809mov62p5wu86ec0u9w28kf0rnwo91rc3asr7tvf9dy1.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/cxb0j809mov62p5wu86ec0u9w28kf0rnwo91rc3asr7tvf9dy1.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/cxb0j809mov62p5wu86ec0u9w28kf0rnwo91rc3asr7tvf9dy1.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/cxb0j809mov62p5wu86ec0u9w28kf0rnwo91rc3asr7tvf9dy1.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 6,
+          "width": 640,
+          "height": 480
+        },
+        {
+          "pk": 1704167,
+          "caption": "",
+          "url": "/media/ff/2019/10/eyayxm0cr3bftujfp4uu287f06vtrrqlszewsovurhf9o0l0g8.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/eyayxm0cr3bftujfp4uu287f06vtrrqlszewsovurhf9o0l0g8.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/eyayxm0cr3bftujfp4uu287f06vtrrqlszewsovurhf9o0l0g8.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/eyayxm0cr3bftujfp4uu287f06vtrrqlszewsovurhf9o0l0g8.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 7,
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "documents": [],
+      "organization": {
+        "name": "Helvetia",
+        "logo": {
+          "url": "/media/thumbs/org/2017/07/xnz7tkf5oagde06pe0q8x33cwb95fydn2h04q293f9xifbqpp6.png.360x0_q85_upscale.png",
+          "url_org_logo_m": "/media/thumbs/org/2017/07/xnz7tkf5oagde06pe0q8x33cwb95fydn2h04q293f9xifbqpp6.png.360x0_q85_upscale.png"
+        }
+      },
+      "id": 123005,
+      "cover_image_url": "/media/thumbs/ff/2019/10/nu0gwy3ve9g1l1kp1ku12ap0y9lb2p41kc931rjfo2t5k0zslj.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "4 ½ rooms apartment, 2503 Biel/Bienne",
+      "rent_display": 1850,
+      "category": "APARTMENT",
+      "public_subtitle": "Fliederweg 12, 2503 Biel/Bienne - CHF 1,850 incl. utilities per month"
+    },
+    {
+      "pk": 86928,
+      "slug": "schadrutistrasse-54-6006-luzern",
+      "url": "/en/flat/schadrutistrasse-54-6006-luzern/86928/",
+      "short_url": "/86928/",
+      "thread_url": null,
+      "status": "act",
+      "offer_type": "RENT",
+      "object_category": "APARTMENT",
+      "object_type": "APARTMENT",
+      "ref_property": "6609",
+      "ref_house": "02",
+      "ref_object": "0004",
+      "price_display": 1565,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "rent_net": 1365,
+      "rent_charges": 200,
+      "rent_gross": 1565,
+      "short_title": "3 ½ rooms apartment",
+      "public_title": "Schädrütistrasse 54, 6006 Luzern - CHF 1,565 incl. utilities per month",
+      "rent_title": "Rent a 3 ½ rooms apartment in Luzern",
+      "description_title": "Ruhig und doch Zentral",
+      "description": "Die Lage\nDie Liegenschaft befindet sich an ruhiger und doch zentraler Lage am Waldrand. Einkaufsmöglichkeiten und Anschluss an den öffentlichen Verkehr erreichen Sie innert kürzester Zeit. \n\nEin Rundgang durch Ihre Wohnung\nDer praktische Grundriss lässt Ihnen Freiheiten, sich auf rund 78 m2 individuell einzurichten. Der Parkettboden in allen Wohnräumen sorgt zudem für eine behagliche Atmosphäre. Auf dem Balkon können Sie den Tag gemütlich bei Abendsonne ausklingen lassen. Weiter bietet Ihnen diese Wohnung folgende Vorzüge:\n\n - Praktischer Grundriss\n - Wohnzimmer und alle Zimmer mit Parkett\n - Küche mit Glaskeramik und Geschirrspüler\n - Bad mit Badewanne\n - sep. WC\n - Einbauschränke vorhanden\n - Balkon mit Weitsicht\n\nAnrufen. Besichtigen. Mieten. Wir uns auf Ihre Kontaktaufnahme!\n\nOlivia Erni\n058 280 77 82\nolivia.erni@helvetia.ch\n\nAls Mieter von Helvetia erhalten Sie eine kostenlose Umzugsversicherung für den Umzug in Ihre neue Wohnung und profitieren ausserdem zusätzlich von 50% Rabatt auf Ihre erste Jahresprämie für ausgewählte Helvetia Versicherungsprodukte!\n\nWeitere Interessante Mietobjekte finden Sie unter:\nwww.helvetia.ch/miete\n\nBei den publizierten Bildern handelt es sich um typenähnliche / typengleiche Wohnungen. Abweichungen zum effektiven Angebot sind deshalb möglich",
+      "livingspace": 78,
+      "number_of_rooms": "3.5",
+      "floor": 1,
+      "attributes": [],
+      "is_furnished": false,
+      "is_temporary": false,
+      "is_selling_furniture": false,
+      "show_exact_address": true,
+      "zipcode": 6006,
+      "city": "Luzern",
+      "public_address": "Schädrütistrasse 54, 6006 Luzern",
+      "latitude": 47.0578057,
+      "longitude": 8.3498102,
+      "year_built": 1951,
+      "moving_date_type": "agr",
+      "moving_date": null,
+      "video_url": null,
+      "tour_url": null,
+      "website_url": null,
+      "cover_image": {
+        "pk": 1704152,
+        "caption": "",
+        "url": "/media/ff/2019/10/6z9w9sj27t2if3c5vby27p8ct2hx110kyn8vqx962ubbk59cal.jpg",
+        "url_thumb_m": "/media/thumbs/ff/2019/10/6z9w9sj27t2if3c5vby27p8ct2hx110kyn8vqx962ubbk59cal.jpg.140x140_q85_crop-%2C_upscale.jpg",
+        "url_listing_search": "/media/thumbs/ff/2019/10/6z9w9sj27t2if3c5vby27p8ct2hx110kyn8vqx962ubbk59cal.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "search_url": "/media/thumbs/ff/2019/10/6z9w9sj27t2if3c5vby27p8ct2hx110kyn8vqx962ubbk59cal.jpg.600x360_q85_crop-%2C_upscale.jpg",
+        "ordering": 1,
+        "width": 800,
+        "height": 533
+      },
+      "images": [
+        {
+          "pk": 1704152,
+          "caption": "",
+          "url": "/media/ff/2019/10/6z9w9sj27t2if3c5vby27p8ct2hx110kyn8vqx962ubbk59cal.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/6z9w9sj27t2if3c5vby27p8ct2hx110kyn8vqx962ubbk59cal.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/6z9w9sj27t2if3c5vby27p8ct2hx110kyn8vqx962ubbk59cal.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/6z9w9sj27t2if3c5vby27p8ct2hx110kyn8vqx962ubbk59cal.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 1,
+          "width": 800,
+          "height": 533
+        },
+        {
+          "pk": 1704153,
+          "caption": "",
+          "url": "/media/ff/2019/10/pow4ez5d12063zk0en3f5ifsg2cdfxk8s1fpjm1syde7204rzp.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/pow4ez5d12063zk0en3f5ifsg2cdfxk8s1fpjm1syde7204rzp.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/pow4ez5d12063zk0en3f5ifsg2cdfxk8s1fpjm1syde7204rzp.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/pow4ez5d12063zk0en3f5ifsg2cdfxk8s1fpjm1syde7204rzp.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 2,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "pk": 1704154,
+          "caption": "",
+          "url": "/media/ff/2019/10/il2shzxnc2l8rol15ew88qkdqfvx7ca8kt390kljpsqcvrgyqz.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/il2shzxnc2l8rol15ew88qkdqfvx7ca8kt390kljpsqcvrgyqz.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/il2shzxnc2l8rol15ew88qkdqfvx7ca8kt390kljpsqcvrgyqz.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/il2shzxnc2l8rol15ew88qkdqfvx7ca8kt390kljpsqcvrgyqz.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 3,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "pk": 1704155,
+          "caption": "",
+          "url": "/media/ff/2019/10/w5jeb3as457v2xmd46r23wj3i23b1feuf4s9op49d7bosswjgn.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/w5jeb3as457v2xmd46r23wj3i23b1feuf4s9op49d7bosswjgn.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/w5jeb3as457v2xmd46r23wj3i23b1feuf4s9op49d7bosswjgn.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/w5jeb3as457v2xmd46r23wj3i23b1feuf4s9op49d7bosswjgn.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 4,
+          "width": 800,
+          "height": 600
+        },
+        {
+          "pk": 1704156,
+          "caption": "",
+          "url": "/media/ff/2019/10/6i694inlxggk30aif6502xivfso5dv9kiaviigsilq9t0m4wqn.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/6i694inlxggk30aif6502xivfso5dv9kiaviigsilq9t0m4wqn.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/6i694inlxggk30aif6502xivfso5dv9kiaviigsilq9t0m4wqn.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/6i694inlxggk30aif6502xivfso5dv9kiaviigsilq9t0m4wqn.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 5,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "pk": 1704157,
+          "caption": "",
+          "url": "/media/ff/2019/10/051j4ixtlb1sysdmpembh94uqopdcmdk7vrp65b7aoidzmgd6v.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/051j4ixtlb1sysdmpembh94uqopdcmdk7vrp65b7aoidzmgd6v.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/051j4ixtlb1sysdmpembh94uqopdcmdk7vrp65b7aoidzmgd6v.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/051j4ixtlb1sysdmpembh94uqopdcmdk7vrp65b7aoidzmgd6v.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 6,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "pk": 1704158,
+          "caption": "",
+          "url": "/media/ff/2019/10/0yxaoe7in07znrvbou5uxlcrbfr5gd95os9d3nptnw2qovpmtz.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/0yxaoe7in07znrvbou5uxlcrbfr5gd95os9d3nptnw2qovpmtz.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/0yxaoe7in07znrvbou5uxlcrbfr5gd95os9d3nptnw2qovpmtz.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/0yxaoe7in07znrvbou5uxlcrbfr5gd95os9d3nptnw2qovpmtz.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 7,
+          "width": 450,
+          "height": 600
+        },
+        {
+          "pk": 1704159,
+          "caption": "",
+          "url": "/media/ff/2019/10/g8ai8m0yazjcx4vxjzklw7gytsugq8ee2fnv0r9i1m7saouicn.jpg",
+          "url_thumb_m": "/media/thumbs/ff/2019/10/g8ai8m0yazjcx4vxjzklw7gytsugq8ee2fnv0r9i1m7saouicn.jpg.140x140_q85_crop-%2C_upscale.jpg",
+          "url_listing_search": "/media/thumbs/ff/2019/10/g8ai8m0yazjcx4vxjzklw7gytsugq8ee2fnv0r9i1m7saouicn.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "search_url": "/media/thumbs/ff/2019/10/g8ai8m0yazjcx4vxjzklw7gytsugq8ee2fnv0r9i1m7saouicn.jpg.600x360_q85_crop-%2C_upscale.jpg",
+          "ordering": 8,
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "documents": [],
+      "organization": {
+        "name": "Helvetia",
+        "logo": {
+          "url": "/media/thumbs/org/2017/07/xnz7tkf5oagde06pe0q8x33cwb95fydn2h04q293f9xifbqpp6.png.360x0_q85_upscale.png",
+          "url_org_logo_m": "/media/thumbs/org/2017/07/xnz7tkf5oagde06pe0q8x33cwb95fydn2h04q293f9xifbqpp6.png.360x0_q85_upscale.png"
+        }
+      },
+      "id": 86928,
+      "cover_image_url": "/media/thumbs/ff/2019/10/6z9w9sj27t2if3c5vby27p8ct2hx110kyn8vqx962ubbk59cal.jpg.600x360_q85_crop-%2C_upscale.jpg",
+      "title": "3 ½ rooms apartment, 6006 Luzern",
+      "rent_display": 1565,
+      "category": "APARTMENT",
+      "public_subtitle": "Schädrütistrasse 54, 6006 Luzern - CHF 1,565 incl. utilities per month"
+    }
+  ]
+}

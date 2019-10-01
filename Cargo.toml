@@ -1,0 +1,13 @@
+[package]
+name = "flatfox-rs"
+version = "0.1.0"
+authors = ["Denys Vitali <denys.vitali@nanos.ai>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+reqwest = "0.9.20"
+serde = "1.0.101"
+serde_json = "1.0.40"
+more-asserts = "0.2.1"
