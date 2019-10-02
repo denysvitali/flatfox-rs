@@ -1,5 +1,5 @@
 [package]
-name = "flatfox-rs"
+name = "flatfox"
 version = "0.1.0"
 authors = ["Denys Vitali <denys.vitali@nanos.ai>"]
 edition = "2018"
