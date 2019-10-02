@@ -50,7 +50,7 @@ pub fn get_pin(count: i32, bounds: Option<Bounds>, search: PinSearch) -> Vec<Pin
             _ => {}
         }
 
-        qp.append_pair("limit", &count.to_string());
+        qp.append_pair("count", &count.to_string());
 
         match search.min_rooms() {
             Some(v) => {
