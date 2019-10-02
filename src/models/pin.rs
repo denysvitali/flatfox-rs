@@ -36,7 +36,7 @@ pub struct PinSearch {
 }
 
 impl PinSearch {
-    pub(crate) fn new() -> PinSearch {
+    pub fn new() -> PinSearch {
         PinSearch {
             min_rooms: None,
             max_rooms: None,
@@ -54,7 +54,7 @@ impl PinSearch {
         }
     }
 
-    pub(crate) fn build(self) -> PinSearch {
+    pub fn build(self) -> PinSearch {
         self.clone()
     }
 }
