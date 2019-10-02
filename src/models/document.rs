@@ -1,5 +1,3 @@
-use serde::{Serialize, Deserialize};
+use serde::{Deserialize, Serialize};
 #[derive(Serialize, Deserialize, Debug)]
-pub struct Document {
-
-}
+pub struct Document {}

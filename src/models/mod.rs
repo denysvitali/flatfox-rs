@@ -1,12 +1,12 @@
-pub mod paginated;
-pub mod flat;
 pub mod attribute;
+pub mod bounds;
 pub mod category;
 pub mod cover_image;
-pub mod image;
 pub mod document;
+pub mod flat;
+pub mod image;
 pub mod logo;
 pub mod organization;
+pub mod paginated;
 pub mod pin;
-pub mod bounds;
 pub mod price_display_type;

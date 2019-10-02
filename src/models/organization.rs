@@ -1,5 +1,5 @@
-use serde::{Serialize, Deserialize};
 use crate::models::logo::Logo;
+use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct Organization {
