@@ -1,5 +1,5 @@
 use crate::models::flat::ObjectCategory;
-use getset::{Getters, MutGetters, Setters};
+use getset::{Getters, Setters};
 use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Debug)]
@@ -8,6 +8,8 @@ pub struct Pin {
     pub latitude: f64,
     pub longitude: f64,
     pub is_in_region: bool,
+    pub is_liked: bool,
+    pub is_disliked: bool,
 }
 
 #[derive(Clone, Getters, Setters)]

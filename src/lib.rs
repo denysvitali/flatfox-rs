@@ -1,6 +1,5 @@
 use crate::models::flat::Flat;
 use crate::models::paginated::Paginated;
-use std::borrow::{Borrow, BorrowMut};
 
 pub mod models;
 
@@ -16,8 +15,7 @@ extern crate strum_macros;
 use crate::models::bounds::Bounds;
 use crate::models::pin::{Pin, PinSearch};
 use crate::strum::AsStaticRef;
-use reqwest::{Response, Url};
-use serde::{Deserialize, Serialize};
+use reqwest::Url;
 use std::str::FromStr;
 
 const API_ENDPOINT: &str = "https://flatfox.ch/api";
@@ -116,7 +114,9 @@ pub fn get_pin(count: i32, bounds: Option<Bounds>, search: PinSearch) -> Vec<Pin
         }
     }
 
-    serde_json::from_str(&make_request_str(&url)).unwrap()
+
+    let response = make_request_str(&url);
+    serde_json::from_str(&response).unwrap()
 }
 
 pub fn get_flat(pk: i32) -> Flat {
@@ -198,7 +198,7 @@ mod tests {
             east: 8.7732697,
         };
 
-        let flats = get_flats_area(10, Some(bounds), search_res);
+        let flats = get_flats_area(1, Some(bounds), search_res);
         println!("Flats:");
 
         for flat in flats {
@@ -208,7 +208,8 @@ mod tests {
 
     #[test]
     fn test_get_flat() {
-        let f = get_flat(128617);
-        assert_eq!(128617, f.id);
+        let f = get_flat(241754);
+        println!("flat: {:?}, {:?}", f.latitude, f.longitude);
+        assert_eq!(241754, f.pk);
     }
 }

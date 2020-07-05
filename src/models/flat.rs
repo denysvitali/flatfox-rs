@@ -11,7 +11,7 @@ use std::fmt::Error;
 use std::fmt::Formatter;
 use crate::strum::AsStaticRef;
 
-#[derive(Serialize, Deserialize, Debug)]
+#[derive(Serialize, Deserialize, Debug, Clone)]
 pub struct Flat {
     pub attributes: Vec<Attribute>,
     pub category: Category,
@@ -22,7 +22,6 @@ pub struct Flat {
     pub description_title: Option<String>,
     pub documents: Vec<Document>,
     pub floor: Option<i32>,
-    pub id: i32,
     pub images: Vec<Image>,
     pub is_furnished: bool,
     pub is_selling_furniture: bool,
@@ -57,6 +56,8 @@ pub struct Flat {
     pub show_exact_address: bool,
     pub slug: Option<String>,
     pub status: Option<String>,
+    pub street: Option<String>,
+    pub surface_living: Option<i32>,
     pub thread_url: Option<String>,
     pub title: Option<String>,
     pub tour_url: Option<String>,
@@ -67,7 +68,7 @@ pub struct Flat {
     pub zipcode: Option<i32>,
 }
 
-#[derive(Debug, Serialize, Deserialize, AsStaticStr)]
+#[derive(Debug, Serialize, Deserialize, AsStaticStr, Clone)]
 pub enum OfferType {
     RENT,
     SALE,
