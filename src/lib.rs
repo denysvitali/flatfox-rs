@@ -7,9 +7,6 @@ extern crate serde;
 extern crate strum;
 
 #[macro_use]
-extern crate more_asserts;
-
-#[macro_use]
 extern crate strum_macros;
 
 use crate::models::bounds::Bounds;
